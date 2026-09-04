@@ -106,7 +106,7 @@ fun QuizScreen(state: AppState) {
                 .padding(16.dp),
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
-            StatusChip(vm, question)
+            StatusChip(state, question)
 
             Text(question.text, style = MaterialTheme.typography.titleLarge)
 
