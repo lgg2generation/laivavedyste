@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ship's wheel: hub, rim and eight spokes. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30a24,24 0 1,0 0.1,0zM54,37a17,17 0 1,1 -0.1,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50.5,26h7v56h-7zM26,50.5h56v7h-56z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33.4,28.5l4.9,-4.9l39.6,39.6l-4.9,4.9zM73,23.6l4.9,4.9l-39.6,39.6l-4.9,-4.9z" />
+    <path
+        android:fillColor="#0B4F86"
+        android:pathData="M54,44a10,10 0 1,0 0.1,0z" />
+</vector>

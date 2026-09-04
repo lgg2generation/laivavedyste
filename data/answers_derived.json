@@ -1,0 +1,1333 @@
+{
+ "_comment": "Answers for topics 8-15. The source .doc files for these topics ship without an answer key (verified with two independent readers: no underline, no other distinguishing formatting). These were derived by Claude from the subject matter and from cross-references inside each topic. confidence: high = cross-checked against another question in the same bank or against a regulation; medium = follows clearly from the subject matter; low = plausible but the exact figure could not be verified offline.",
+ "t10_1": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "10 kanalas = uosto dispečerinė, šaukinys „Klaipėda radio-12“ (plg. t10_13, t10_14)."
+ },
+ "t10_2": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "9 kanalas = laivų eismo tarnyba, šaukinys „Klaipėda radio-5“ (plg. t10_12, t10_15)."
+ },
+ "t10_3": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Draudžiama užimti tarnybinius 9, 10, 16, 71, 72 kanalus."
+ },
+ "t10_4": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Uosto dispečerinė – 10 kanalu (plg. t10_13)."
+ },
+ "t10_5": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Privaloma klausytis 9 (uosto) ir 16 (nelaimės) kanalų."
+ },
+ "t10_6": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Laivų eismo tarnyba – 9 kanalu (plg. t10_12)."
+ },
+ "t10_7": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pasienio postas „Kopgalis“ – 73 kanalu (plg. t10_10)."
+ },
+ "t10_8": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Koordinacinis gelbėjimo centras – 16 kanalu (plg. t10_11)."
+ },
+ "t10_9": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "„Impulsas-3“ – pasienio kontrolės postas „Kopgalis“ (plg. t10_16)."
+ },
+ "t10_10": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "73 kanalas – „Kopgalis“ (plg. t10_7)."
+ },
+ "t10_11": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "16 kanalas – koordinacinis gelbėjimo centras (plg. t10_8)."
+ },
+ "t10_12": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "9 kanalas – laivų eismo tarnyba (plg. t10_6)."
+ },
+ "t10_13": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "10 kanalas – uosto dispečeris (plg. t10_4)."
+ },
+ "t10_14": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "„Klaipėda radio-12“ – dešimtas kanalas (plg. t10_1)."
+ },
+ "t10_15": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "„Klaipėda radio-5“ – devintas kanalas (plg. t10_2)."
+ },
+ "t10_16": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "„Impulsas-3“ – „Kopgalis“ (plg. t10_9)."
+ },
+ "t10_17": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "„Klaipėda radio-32“ – uosto priežiūros tarnyba (plg. t10_20)."
+ },
+ "t10_18": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Leidimus laivo radijo stočiai išduoda Ryšių reguliavimo tarnyba (RRT)."
+ },
+ "t10_19": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "MAYDAY – nelaimės signalas; PAN PAN – skubos, SECURITE – įspėjimo."
+ },
+ "t10_20": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Uosto priežiūros skyrius – „Klaipėda radio-32“ (plg. t10_17)."
+ },
+ "t10_21": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Orų prognozę skelbia laivų eismo tarnyba 9 kanalu („Klaipėda radio-5“) – vienintelis kanalo ir šaukinio derinys, atitinkantis t10_2."
+ },
+ "t15_1": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "ANK 435 str. 1 d. Tikslios sumos neradau neprisijungęs – vertėtų pasitikrinti kodekse."
+ },
+ "t15_2": {
+  "answer": 1,
+  "confidence": "low",
+  "note": "ANK 435 str. 2 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+ },
+ "t15_3": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "ANK 435 str. 3 d.; 2 variantas („trijų dviejų eurų“) su korektūros klaida, 3 variantas keičia apatinę ribą."
+ },
+ "t15_4": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "ANK 435 str. 4 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+ },
+ "t15_5": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "„Nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų“ – tokia pat formuluotė kaip ANK 422 str. dėl neblaivumo."
+ },
+ "t15_6": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "ANK 435 str. 6 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+ },
+ "t15_7": {
+  "answer": 1,
+  "confidence": "low",
+  "note": "ANK 435 str. 7 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+ },
+ "t15_8": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "ANK 435 str. 8 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+ },
+ "t13_1": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Šiukšlės ir maisto atliekos – ne ilgiau kaip 2 paras uždaruose ir pažymėtuose konteineriuose (plg. t13_16)."
+ },
+ "t13_2": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Užterštų vandenų atidavimas į specialius laivus-surinkėjus yra privalomas, o ne draudžiamas, todėl „abu“ netinka."
+ },
+ "t13_3": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pranešama Koordinaciniam centrui ir Uosto dispečerinei, įrašoma į laivo dienyną."
+ },
+ "t13_4": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Kranto inžineriniai tinklai priklauso uosto žemės naudotojui – jo leidimas ir reikalingas."
+ },
+ "t13_5": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Už saugų stovėjimą prie krantinės atsako laivo kapitonas kartu su uosto žemės naudotoju."
+ },
+ "t13_6": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "MARPOL 73/78 IV priedas nutekamųjų vandenų sistemą sieja su daugiau kaip 15 žmonių."
+ },
+ "t13_7": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "MARPOL 73/78 I priedas – liekamoji nafta neturi viršyti 15 ppm."
+ },
+ "t13_8": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nutekamieji (fekaliniai) vandenys – iš tualetų, medicininių ir gyvūnų laikymo patalpų."
+ },
+ "t13_9": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ūkiniai-buitiniai vandenys – iš dušų, vonių, plautuvių, skalbyklų ir virtuvės."
+ },
+ "t13_10": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "MARPOL 73/78 ir Helsinkio konvencija; COLREGS ir SOLAS nėra gamtosaugos dokumentai."
+ },
+ "t13_11": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Vidaus vandenyse išmesti visas šiukšles draudžiama."
+ },
+ "t13_12": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Atliekų deginimas vidaus ir teritoriniuose vandenyse draudžiamas visiems laivams."
+ },
+ "t13_13": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Fekalinių vandenų šalinimas uostuose draudžiamas visų tipų laivams."
+ },
+ "t13_14": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "15 mg/l atitinka 15 ppm ribą (plg. t13_7)."
+ },
+ "t13_15": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pirmiausia pranešama budinčiam Uosto dispečerinės darbuotojui."
+ },
+ "t13_16": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Uždaruose ir pažymėtuose konteineriuose (plg. t13_1)."
+ },
+ "t13_17": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Ir specialūs laivai-surinkėjai, ir kranto talpos yra leistini priėmimo įrenginiai."
+ },
+ "t13_18": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vožtuvai laikomi uždaryti ir užplombuoti."
+ },
+ "t13_19": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Špigatai uždaromi, po jungtimis dedami padėklai."
+ },
+ "t13_20": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "10–100 ha telkiniuose, kai variklių galia viršija 4 kW (5,4 AJ) – patvirtina t13_21."
+ },
+ "t13_21": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "90 ha telkinys liepą patenka į 10–100 ha ribojimą, o 10 AG viršija 4 kW; 11 ha gegužę – dar ne sezonas, 105 ha – virš ribos."
+ },
+ "t14_1": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Laivo avarija – kai savybėms atstatyti reikia daugiau kaip 72 valandų; vien susidūrimo faktas dar nėra avarija."
+ },
+ "t14_2": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ir kranto statinio, ir navigacinių ženklų sugadinimas, kai atstatyti reikia >72 val., yra avarija."
+ },
+ "t14_3": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pirmosios pagalbos simbolis – žalias kvadratas su baltu kryžiumi (A); raudonas kryžius yra saugoma Raudonojo Kryžiaus emblema."
+ },
+ "t14_4": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ir žmonių žūtis, ir visiškas laivo sudužimas klasifikuojami kaip avarija."
+ },
+ "t14_5": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ir teršalų išsiliejimas, ir navigacinių ženklų sugadinimas >72 val. yra avarija."
+ },
+ "t14_6": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Jūrų uostų akvatorijose tiria uostų kapitonai, dalyvaujant įgaliotam Administracijos pareigūnui."
+ },
+ "t14_7": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Vidaus vandenyse tyrimą atlieka laivo savininkas (valdytojas), dalyvaujant įgaliotam Inspekcijos pareigūnui."
+ },
+ "t14_8": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Teritorinėje jūroje – Inspekcija, dalyvaujant saugios laivybos administracijos įgaliotam pareigūnui."
+ },
+ "t14_9": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nesunkus sužalojimas – avarinis incidentas; >72 val. sugadinimas jau yra avarija."
+ },
+ "t14_10": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pranešama laivo savininkui (valdytojui) ir Transporto saugos administracijai."
+ },
+ "t14_11": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Užsienio valstybėje – Lietuvos Respublikos diplomatinei (konsulinei) įstaigai."
+ },
+ "t14_12": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pirminį tyrimą atlieka laivo kapitonas."
+ },
+ "t14_13": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Asmens dingimas iš laivo – avarija; nesunkus sužalojimas ir ženklų sugadinimas – incidentai."
+ },
+ "t14_14": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Sekluma ilgiau kaip 48 valandas – avarija; greičiau nuvilktas laivas – incidentas."
+ },
+ "t14_15": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Kranto statinys, atkuriamas ne daugiau kaip per 48 val. – avarinis incidentas."
+ },
+ "t14_16": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nuvilkimas greičiau nei per 48 val. – avarinis incidentas; kiti du variantai yra avarijos."
+ },
+ "t14_17": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Navigacinių ženklų sugadinimas be 72 val. kriterijaus – avarinis incidentas."
+ },
+ "t14_18": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Informuojami ir Jūrų gelbėjimo koordinavimo centras, ir uosto Laivų eismo tarnyba."
+ },
+ "t14_19": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Laikomas gyvenamosiose patalpose arba vairinėje; dangtis žymimas ne mažesniu kaip 10 cm kraštinės simboliu."
+ },
+ "t14_20": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Eksploataciniai atsitikimai – gedimai, kai laivas nepraranda savybių ir kurie neatitinka avarijos ar incidento požymių."
+ },
+ "t14_21": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Labai sunki avarija – ir laivo žūtis, ir dingimas ar nebeatstatomas konstrukcijų suirimas."
+ },
+ "t14_22": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Sunki avarija apima ir gaisrą/susidūrimą, ir navigacines savybes atimančius struktūrinius apgadinimus."
+ },
+ "t14_23": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Sunki avarija – ir aplinkos užteršimas, ir būtinybė vilkti laivą ar pagalba iš kranto."
+ },
+ "t14_24": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Tyrimo išlaidas padengia laivo savininkas."
+ },
+ "t14_25": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Avarijos tyrimo aktas pateikiamas per 24 valandas."
+ },
+ "t14_26": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Sunkus sužeidimas – hospitalizacija daugiau nei 72 valandas per septynias dienas nuo sužeidimo (IMO apibrėžimas)."
+ },
+ "t14_27": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ir sunkus sužalojimas, ir >72 val. atstatomas sugadinimas yra avarija."
+ },
+ "t14_28": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Mirtinas sužeidimas – kai asmuo miršta per 30 dienų nuo įvykio (IMO apibrėžimas)."
+ },
+ "t11_1": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Atitinka kodekso vidaus vandenų uosto apibrėžimą; kiti du variantai aprašo reidą ir prieplauką."
+ },
+ "t11_3": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pažodinis kodekso krantinės apibrėžimas."
+ },
+ "t11_5": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Plūduriuojantysis įrenginys turi mechaninę įrangą (žemkasė, dokas, kranas); nesavaeigiai statiniai yra plūduriuojančiosios priemonės (plg. t11_39)."
+ },
+ "t11_7": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pakrančių plaukiojimo rajonas apima teritorinę jūrą – kodekso formuluotė."
+ },
+ "t11_9": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Uostai ir prieplaukos gali priklausyti ir valstybei ar savivaldybėms, ir privatiems asmenims."
+ },
+ "t11_11": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pažodinis kodekso apibrėžimas su nuoroda į 241 straipsnio plaukiojimo rajonus."
+ },
+ "t11_14": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "„Žmogus už borto“ – trys ilgi garsiniai signalai ir skelbimas; septyni trumpi ir vienas ilgas yra bendrasis pavojus."
+ },
+ "t11_15": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "Apsaugos juosta – 15 m nuo vandens krašto; tikslų plotį verta pasitikrinti teisės akte."
+ },
+ "t11_17": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pagal darbų pobūdį – keleiviniai, krovininiai, mišrieji, žvejybiniai ir pramoginių laivų."
+ },
+ "t11_18": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Nepertraukiamas (ištisinis) signalas – ne trumpiau kaip 30 s."
+ },
+ "t11_19": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Valstybinę saugios laivybos priežiūrą vykdo Lietuvos transporto saugos administracija."
+ },
+ "t11_22": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Reikalingas ir konkretus įgaliojimas, ir notaro patvirtinimas, kai įgaliojimą duoda fizinis asmuo."
+ },
+ "t11_23": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Svečios valstybės vėliava keliama priekinio stiebo viršūnėje arba rėjos dešiniajame noke."
+ },
+ "t11_24": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Kodekso formuluotė – iki Klaipėdos valstybinio jūrų uosto vartų."
+ },
+ "t11_25": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Lietuvos Respublikos vėliava keliama laivagalyje ant vėliavos stiebo."
+ },
+ "t11_26": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Pasienio ruožo vandenyse abiejose antstato pusėse privalomi skydai su registro (identifikavimo) numeriu."
+ },
+ "t11_28": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pažodinis kodekso pramoginio laivo apibrėžimas."
+ },
+ "t11_30": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Vidaus vandenų keliai skirstomi į valstybinės ir vietinės reikšmės."
+ },
+ "t11_33": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Tamsiu paros metu vėliava keliama praplaukiant tarptautinius sąsiaurius, įplaukiant ar išplaukiant iš uosto ir sveikinant karo laivus."
+ },
+ "t11_35": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Vidaus vandenų transportas – ūkinės veiklos sritis, apimanti vežimą, žvejybą, buksyravimą ir infrastruktūros eksploatavimą."
+ },
+ "t11_37": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Pažodinis kodekso mažojo laivo apibrėžimas (iki 20 m, sandauga mažiau kaip 100 m³)."
+ },
+ "t11_39": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Plūduriuojančioji priemonė – nesavaeigis statinys ant vandens (plg. t11_5)."
+ },
+ "t11_41": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "Registravimo taisyklių raidinis žymuo – verta pasitikrinti galiojančioje redakcijoje."
+ },
+ "t11_43": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pažodinis apibrėžimas: laivybai vidaus vandenyse naudojama priemonė, neskirta laisvalaikiui ir sportui."
+ },
+ "t11_45": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Vidaus vandenų kelius valdo Susisiekimo ministerija arba jos įgaliota institucija."
+ },
+ "t11_46": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pažodinis kodekso žvejybos laivo apibrėžimas."
+ },
+ "t11_47": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Gedulo dienomis vėliava nuleidžiama 1/3 vėliavos lyno ilgio."
+ },
+ "t11_48": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Greitaeigis laivas – didesnio kaip 40 km/h greičio (CEVNI atitikmuo)."
+ },
+ "t11_49": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vandenys į sausumos pusę nuo bazinės linijos yra valstybės vidaus vandenys."
+ },
+ "t11_50": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Teritorinė jūra – 12 jūrmylių pločio juosta."
+ },
+ "t9_1": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Pripučiamą plaustą kasmet tikrina aprobuota techninės priežiūros bazė; įgula savaitinės patikros neatlieka."
+ },
+ "t9_2": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Pripučiamai liemenei taikoma ir kas mėnesį įgulos apžiūra, ir kasmetinė patikra bazėje."
+ },
+ "t9_3": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "ABC milteliai gesina kietas medžiagas, skysčius, dujas ir elektros įrenginius iki 1000 V."
+ },
+ "t9_4": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Prie gelbėjimo rato tvirtinamas 30 m plūduriuojantis lynas (plg. t9_34, t9_35)."
+ },
+ "t9_5": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "CO2 gesintuvai skirti virtuvėms ir elektros įrenginiams; gyvenamosiose patalpose pavojinga dėl deguonies stokos."
+ },
+ "t9_6": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Gelbėjimo rato masė – ne mažiau kaip 2,5 kg."
+ },
+ "t9_7": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "Miltelinių gesintuvų laikymo intervalas –40…+60 °C; vertėtų pasitikrinti gamintojo reikalavimus."
+ },
+ "t9_8": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "CO2 gesina degius skysčius ir elektros įrenginius iki 1000 V; kietoms medžiagoms ir metalams netinka."
+ },
+ "t9_9": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Kasmetinė patikra ir hidraulinis bandymas kas 10 metų."
+ },
+ "t9_10": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Putų (LW) gesintuvas gesina kietas degias medžiagas ir degius skysčius, bet ne elektros įrenginius."
+ },
+ "t9_11": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Benziną laikyti mašinų skyriuje neleistina."
+ },
+ "t9_12": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Rūgštinių ir šarminių akumuliatorių vienoje patalpoje laikyti neleistina."
+ },
+ "t9_13": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Buitiniuose suskystintųjų dujų įrenginiuose – patvirtintos 5–35 kg talpyklos."
+ },
+ "t9_14": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Baterijos tvirtinamos taip, kad judant laivui nepasislinktų."
+ },
+ "t9_15": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ženkle „LW“ – lengvo vandens putų (light water) gesintuvas."
+ },
+ "t9_16": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Vandeniu gesinama buitinėse patalpose; kuro ir tepalo cisternose vanduo netinka."
+ },
+ "t9_17": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Draudžiama bunkeruoti per kito laivo korpusą; iš nesavaeigio laivo su vilkiku šalia – leidžiama."
+ },
+ "t9_18": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Ženkle „CO2“ – nešiojamasis angliarūgštės gesintuvas."
+ },
+ "t9_19": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ženkle „P“ (powder) – nešiojamasis miltelinis gesintuvas."
+ },
+ "t9_20": {
+  "answer": 2,
+  "confidence": "low",
+  "note": "Atvira ugnis draudžiama arčiau kaip 50 m; tikslų atstumą verta pasitikrinti uosto taisyklėse."
+ },
+ "t9_21": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Iki 6 m laivams – ne mažiau kaip 2 kg milteliniai, tinkami A, B, C ir elektros iki 1000 V gaisrams."
+ },
+ "t9_24": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Gelbėjimo ratas yra individuali gelbėjimo priemonė."
+ },
+ "t9_25": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Visi trys paveiksle pavaizduoti signalai (NC vėliavos ir keturkampė vėliava su rutuliu virš arba po ja) atskirai reiškia nelaimę."
+ },
+ "t9_26": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nelaimės signalas – tik pirmasis (NC vėliavos); antrasis (Q ir P) ir trečiasis nelaimės nereiškia."
+ },
+ "t9_27": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Laivagalyje – Latvijos vėliava, stiebe Lietuvos (mandagumo) vėliava ir keturkampė vėliava su rutuliu po ja – nelaimės signalas."
+ },
+ "t9_28": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Lėtas ištiestų rankų kėlimas ir nuleidimas – tarptautinis nelaimės signalas."
+ },
+ "t9_29": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Laivagalyje – Lietuvos vėliava, stiebe Vokietijos (mandagumo) vėliava ir NC nelaimės signalas."
+ },
+ "t9_30": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Liemenė turi būti pasiekiama kiekvienam laive esančiam asmeniui."
+ },
+ "t9_31": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "B – žmogus keliamas taliais nuo stiebo; A pavaizduotas kėlimas per mažos valties bortą rankomis yra pavojingas."
+ },
+ "t9_32": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "A – ratas metamas laikant lyno ritę rankoje; B ratas nusviestas per toli nuo skęstančiojo."
+ },
+ "t9_33": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "30 m plūduriuojantis lynas su kilpa ir gelbėjimosi liemenė kiekvienam esančiam žmogui."
+ },
+ "t9_34": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Iki 6 m – vienas gelbėjimo ratas su 30 m lynu ir savaime užsidegančiu žiburiu."
+ },
+ "t9_35": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Virš 6 m – ne mažiau kaip du gelbėjimo ratai su 30 m lynais (plg. t9_34)."
+ },
+ "t9_36": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Šviečiančios ir dūmus leidžiančios bujelės patikra aprobuotoje bazėje – kartą per 3 metus."
+ },
+ "t9_37": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Plastiko ir stiklo pluošto laivai privalo turėti radiolokacinį atšvaitą."
+ },
+ "t9_38": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Ant gelbėjimo rato rašomas laivo pavadinimas ir registracijos uostas."
+ },
+ "t9_39": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vidinis gelbėjimo rato skersmuo – ne mažiau kaip 400 mm."
+ },
+ "t9_40": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Išorinis gelbėjimo rato skersmuo – ne daugiau kaip 800 mm."
+ },
+ "t9_41": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Pirotechniką tikrina aprobuota techninės priežiūros bazė kartą per metus."
+ },
+ "t9_42": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Iš mobilių kranto transporto priemonių bunkeruoti draudžiama, kai laive yra keleivių."
+ },
+ "t9_43": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Tas pats kaip t9_17 – draudžiama bunkeruoti per kito laivo korpusą."
+ },
+ "t9_44": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Suskystintųjų dujų įrenginio dalys mašinų skyriuje negalimos; denyje stovinti spinta yra tinkama vieta."
+ },
+ "t12_1": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Gėlas vanduo mažesnio tankio, todėl grimzlė jame didesnė."
+ },
+ "t12_2": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Bangos ilgis – horizontalus atstumas tarp gretimų viršūnių ar įdubų."
+ },
+ "t12_3": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Bangos aukštis – vertikalus atstumas tarp viršūnės ir įdubos."
+ },
+ "t12_4": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vėjo greitis matuojamas metrais per sekundę; rumbai yra krypties, ne greičio matas."
+ },
+ "t12_5": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Vėjo kryptis nurodoma ir laipsniais, ir rumbais."
+ },
+ "t12_6": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Bangavimas žymimas ir aukščiu metrais, ir balais (plg. t12_13 „3,0 – V“)."
+ },
+ "t12_7": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Hidrologinė prognozė apima vandens lygius, debitus, potvynius ir ledo lūžio datas."
+ },
+ "t12_8": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Prieblanda – pereinamasis laikotarpis tarp dienos ir nakties."
+ },
+ "t12_9": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Brizas: dieną pučia iš jūros į sausumą, naktį – iš sausumos į jūrą."
+ },
+ "t12_10": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Škvalas – staigus trumpalaikis vėjo sustiprėjimas."
+ },
+ "t12_11": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Bangų elementai priklauso nuo vėjo greičio, poveikio trukmės, krypties ir įsibėgėjimo ilgio."
+ },
+ "t12_12": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Paveiksle – vėjarožė tik su pasikartojimo procentais pagal rumbus, be greičio skirstymo."
+ },
+ "t12_13": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "3,0 – bangų aukštis metrais, V – penkių balų bangavimas."
+ },
+ "t12_14": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vėjo stiprumas – Beauforto skalės balais."
+ },
+ "t12_15": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ciklone šiaurės pusrutulyje vėjas sukasi prieš laikrodžio rodyklę."
+ },
+ "t12_16": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Šioje vėjarožėje sutartiniais ženklais parodytas ir vėjo greitis, ir pasikartojimas pagal rumbus."
+ },
+ "t12_17": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vėjo greitį matuoja anemometras."
+ },
+ "t12_18": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Anticiklone šiaurės pusrutulyje vėjas sukasi pagal laikrodžio rodyklę."
+ },
+ "t12_19": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Barometras aneroidas matuoja atmosferos slėgį."
+ },
+ "t12_20": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Vėją sukelia nevienodas atmosferos slėgio pasiskirstymas."
+ },
+ "t12_21": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Vėjarožė – vyraujančių vėjų režimo diagrama."
+ },
+ "t12_22": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Garsas sklinda greičiau šiltame ore ir lėčiau šaltame – abu teiginiai teisingi."
+ },
+ "t12_23": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Šviesos srauto vienetas – liumenas (lm)."
+ },
+ "t12_24": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Šiaurės vakarų (NW) priešingybė – pietryčiai (SE)."
+ },
+ "t12_25": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Anemometras matuoja vėjo greitį."
+ },
+ "t12_26": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Šiaurės rytų (NE) priešingybė – pietvakariai (SW)."
+ },
+ "t12_27": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Spalvos pokyčiai rodo tėkmių ribas, artėjimą prie kranto, seklumų ar upių žiočių."
+ },
+ "t12_28": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Žalsvesnė su geltonu atspalviu spalva rodo seklumą."
+ },
+ "t12_29": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Toks vėjo sustiprėjimas vadinamas škvalu."
+ },
+ "t12_30": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Bangos sklidimo greitis – bangos taško nueitas kelias per laiko vienetą."
+ },
+ "t12_31": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Abu aprašymai (ramus rytas su dienos vėju ir brizų režimas) yra gero oro požymiai."
+ },
+ "t12_32": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pastovus atmosferos slėgio kritimas – oro blogėjimo požymis."
+ },
+ "t12_33": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Aukštas ir beveik nekintantis slėgis – gero oro požymis."
+ },
+ "t12_34": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "A paveiksle – vėjarodis (fliūgeris) su plokštele ir kryptine strėle."
+ },
+ "t12_35": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Bangos periodas – laikas, per kurį banga nueina savo ilgio atstumą."
+ },
+ "t12_36": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pakrančių vėjai, kryptį keičiantys du kartus per parą – brizai."
+ },
+ "t12_37": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Staigus slėgio kritimas ir vakare stiprėjantis kryptį keičiantis vėjas – blogėjančio oro požymis."
+ },
+ "t12_38": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nedideli kamuoliniai debesys su dienos vėjo ciklu – gero oro požymis."
+ },
+ "t12_39": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Skiriamos pilietinė, jūrinė (navigacinė) ir astronominė prieblandos."
+ },
+ "t12_40": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Pilietinė prieblanda – nuo saulėlydžio iki 6–8° po horizontu."
+ },
+ "t12_41": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Kryptį du kartus per metus keičiantys vėjai – musonai."
+ },
+ "t12_42": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Jūrinė (navigacinė) prieblanda tęsiasi iki maždaug 12° po horizontu."
+ },
+ "t12_43": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Teritorija, iš kurios vandenys suteka į upę – upės baseinas."
+ },
+ "t12_44": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Astronominė prieblanda baigiasi, kai saulė nusileidžia apie 18° po horizontu."
+ },
+ "t12_45": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Nerijos atskirta įlanka su siauru sąsiauriu – lagūna."
+ },
+ "t12_46": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Sekliau bangos tampa aukštesnės ir statesnės."
+ },
+ "t12_47": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Upės įtekėjimo vieta – žiotys."
+ },
+ "t12_48": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "Dreifuojantį laivą stiprus vėjas paprastai pasuka bortu; verta pasitikrinti kurso medžiagoje."
+ },
+ "t12_49": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Kuršių marios – lagūna."
+ },
+ "t12_50": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Deltos – iš sąnašų susidariusios lygumos upių žiotyse."
+ },
+ "t12_51": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Tokios lygumos vadinamos upių deltomis."
+ },
+ "t12_52": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Žiotys – vietos, kur upė įteka į jūrą, ežerą ar kitą upę."
+ },
+ "t12_53": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Tai bangos periodo apibrėžimas."
+ },
+ "t12_54": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Tai bangos sklidimo greičio apibrėžimas."
+ },
+ "t12_55": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Pagrindiniai bangos elementai – aukštis, ilgis ir sklidimo greitis."
+ },
+ "t12_56": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ciklonas – vėjai, slenkantys į žemo slėgio sritį."
+ },
+ "t12_57": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Anticiklonas – vėjai, slenkantys į aukšto slėgio sritį."
+ },
+ "t12_58": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "B paveiksle – rankinis anemometras su dubenėliais ir skaitikliais."
+ },
+ "t12_59": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ežeras – uždarame įdubime susitelkusi vandens masė, tiesiogiai nesusisiekianti su jūra."
+ },
+ "t12_60": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Šiaurinė žvaigždė – atskirai viršuje pažymėta skaičiumi 2; 1 ir 3 žymi Grįžulo Ratų žvaigždes."
+ },
+ "t8_1": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Vertikali juosta – būti ypač dėmesingiems; horizontali juosta reikštų „sustoti“ (plg. t8_7)."
+ },
+ "t8_2": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Kelto ženklas su papildoma juosta – nesavaeigis (lynu traukiamas) keltas; be juostos – savaeigis (plg. t8_46)."
+ },
+ "t8_3": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Žemyn nukreiptas trikampis – ribotas aukštis virš vandens (plg. t8_24)."
+ },
+ "t8_4": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Raudonas rėmas be simbolio – draudžiamasis ženklas: toliau plaukti negalima (plg. žalią t8_6)."
+ },
+ "t8_5": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Vienas į kitą nukreipti trikampiai – ribotas farvaterio plotis, nurodytas metrais."
+ },
+ "t8_6": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Žalia-balta-žalia – plaukti leidžiama (plg. raudoną t8_56)."
+ },
+ "t8_7": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Horizontali juosta – privaloma sustoti; papildoma lentelė rodo 1000 m iki muitinės."
+ },
+ "t8_8": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Perbrauktas užrašas SPORT – draudžiama plaukti sportiniais ir pramoginiais laivais."
+ },
+ "t8_9": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Stačiakampė lentelė virš ženklo nurodo atstumą: už 1000 m leidžiama stovėti."
+ },
+ "t8_10": {
+  "answer": 2,
+  "confidence": "high",
+  "note": "Priešingomis kryptimis nukreiptos rodyklės – draudžiama ir prasilenkti, ir lenkti (plg. t8_50)."
+ },
+ "t8_11": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Stačiakampė lentelė (1500) – atstumas, rodyklė (1000) – atkarpos ilgis."
+ },
+ "t8_12": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Knechto ženklas su stačiakampe 500 lentele – už 500 m leidžiama švartuotis prie kranto."
+ },
+ "t8_13": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Rodyklinė lentelė nurodo atkarpos ilgį – 1000 m nuo ženklo stovėti draudžiama."
+ },
+ "t8_14": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Juodas taškas – privaloma duoti garsinį signalą (plg. t8_52); lentelė rodo, kad tai po 1000 m."
+ },
+ "t8_15": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Raudonai apvestas VHF ženklas yra įpareigojantis – privaloma susisiekti nurodytu kanalu."
+ },
+ "t8_16": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Perbrauktas inkaras – draudžiama inkaruotis ir vilkti inkarus, trosus bei grandines."
+ },
+ "t8_17": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Perbrauktas skaičius – draudžiama stovėti nurodyto pločio ruože, matuojant nuo ženklo."
+ },
+ "t8_18": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Skaičius be perbraukimo – neviršyti nurodyto greičio km/h."
+ },
+ "t8_19": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Perbrauktas greitaeigis katereris – tokiems laivams plaukti draudžiama."
+ },
+ "t8_20": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Perbrauktos bangos – draudžiama sukelti bangavimą."
+ },
+ "t8_21": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Perbrauktas vandens motociklas – jais plaukioti draudžiama."
+ },
+ "t8_22": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Rodyklė pirmyn – draudimas stovėti galioja 1000 m atkarpoje nuo ženklo."
+ },
+ "t8_23": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Trikampis viršūne į viršų po skaičiumi – ribotas gylis (2,2 m)."
+ },
+ "t8_24": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Trikampis viršūne žemyn virš skaičiaus – ribotas aukštis virš vandens (7,5 m)."
+ },
+ "t8_25": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Perbrauktas sraigtas – draudžiama plaukti (švartuotis) dirbant laivo varytuvams."
+ },
+ "t8_26": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Perbrauktas knechtas su lynais – draudžiama švartuotis prie kranto."
+ },
+ "t8_27": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Perbrauktas laivo nuleidimas nuo kranto – draudžiamas laivų nuleidimas ar iškėlimas."
+ },
+ "t8_28": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Perbrauktas burlaivis – draudžiama plaukti su pakeltomis burėmis (varikliu plaukti galima)."
+ },
+ "t8_29": {
+  "answer": 2,
+  "confidence": "low",
+  "note": "Simbolis vaizduoja šoninį kelią, susijungiantį su pagrindiniu; reikšmę verta pasitikrinti kurso medžiagoje."
+ },
+ "t8_30": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Perbrauktas P su 25 – draudžiama stovėti 25 m ruože."
+ },
+ "t8_31": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vienas geltonas rombas – plaukimas abiem kryptimis; žali ženklai – rekomendacija laikytis nurodyto tarpatramio."
+ },
+ "t8_32": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Du geltoni rombai – tik viena kryptimi; raudoni ženklai – draudžiama plaukti už pažymėtų ribų."
+ },
+ "t8_33": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vienas geltonas ženklas – plaukimas leidžiamas abiem kryptimis."
+ },
+ "t8_34": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Du raudoni žiburiai ant tilto – plaukimas po tiltu draudžiamas."
+ },
+ "t8_35": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vienas geltonas rombas (abi kryptys) su raudonais ribų ženklais (draudžiama už ribų)."
+ },
+ "t8_36": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ištisai raudoni žiburiai ar skydai – plaukti draudžiama."
+ },
+ "t8_37": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Raudonas žiburys virš neįjungto balto – plaukti draudžiama."
+ },
+ "t8_38": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Du raudonai balti skydai su tarp jų pažymėta erdve – plaukti leidžiama tik tarp jų."
+ },
+ "t8_39": {
+  "answer": 2,
+  "confidence": "medium",
+  "note": "Raudonas kartu su žaliu – plaukti dar draudžiama, bet reikia pasiruošti plaukti."
+ },
+ "t8_40": {
+  "answer": 0,
+  "confidence": "low",
+  "note": "Geltoni ženklai su juodu kryžiumi prie uosto vartų – pagrindiniu keliu plaukiantys laivai praleidžia išplaukiančius; verta pasitikrinti."
+ },
+ "t8_41": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Juodas smaigalys su skaičiumi – farvateris nutolęs nuo kranto, laikytis ženkle nurodyto atstumo."
+ },
+ "t8_43": {
+  "answer": 1,
+  "confidence": "low",
+  "note": "Šio klausimo paveikslėlio šaltinio dokumente nėra; pagal poruotą t8_44 tai vieno geltono ženklo variantas – abi kryptys."
+ },
+ "t8_44": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Du geltoni ženklai – rekomenduojama plaukti tik nurodyta kryptimi."
+ },
+ "t8_45": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Žali ribų ženklai su pažymėta erdve – rekomenduojama plaukti nurodytoje erdvėje po tiltais."
+ },
+ "t8_46": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Kelto ženklas be papildomos juostos – savaeigis keltas (plg. t8_2)."
+ },
+ "t8_47": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Romėniškas skaičius mėlyname ženkle – didžiausias bortais prie krantinės švartuojamų laivų skaičius."
+ },
+ "t8_48": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "CEVNI sistemoje raudoni ženklai žymi dešiniąją pusę – farvateris prie dešniojo kranto."
+ },
+ "t8_49": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Žali ženklai žymi kairiąją pusę – farvateris prie kairiojo kranto."
+ },
+ "t8_50": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Ta pačia kryptimi nukreiptos perbrauktos rodyklės – bet koks lenkimas draudžiamas."
+ },
+ "t8_51": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Rodyklė ženkle – plaukimo krypties nurodymas."
+ },
+ "t8_52": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Juodas taškas raudoname rėme – privaloma duoti garsinį signalą."
+ },
+ "t8_53": {
+  "answer": 0,
+  "confidence": "medium",
+  "note": "Raudoni farvaterio ženklai (cilindriniai) žymi dešiniąją farvaterio pusę."
+ },
+ "t8_54": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Žali kūginiai ženklai žymi kairiąją farvaterio pusę."
+ },
+ "t8_55": {
+  "answer": 0,
+  "confidence": "high",
+  "note": "Raudonai žaliai dryžuoti ženklai žymi farvaterio išsišakojimą."
+ },
+ "t8_56": {
+  "answer": 1,
+  "confidence": "high",
+  "note": "Raudona-balta-raudona – plaukti draudžiama (plg. žalią t8_6)."
+ },
+ "t2_19": {
+  "answer": 1,
+  "confidence": "medium",
+  "note": "Šio klausimo šaltinio dokumente autorius nepabraukė nė vieno atsakymo. Pilniausias apibrėžimas – juosta tam tikrų gabaritų laivams, pažymėta navigacijos ženklais arba locmano žemėlapiuose."
+ }
+}
