@@ -1,6 +1,7 @@
 package lt.laivavedys.testai.data
 
 import platform.Foundation.NSDate
+import platform.Foundation.dateWithTimeIntervalSince1970
 import platform.Foundation.NSDateFormatter
 import platform.Foundation.NSDocumentDirectory
 import platform.Foundation.NSSearchPathForDirectoriesInDomains
@@ -33,5 +34,6 @@ actual fun nowMillis(): Long =
 actual fun formatTimestamp(millis: Long, withDate: Boolean): String {
     val formatter = NSDateFormatter()
     formatter.dateFormat = if (withDate) "yyyy-MM-dd HH:mm" else "MM-dd HH:mm"
-    return formatter.stringFromDate(NSDate(timeIntervalSince1970 = millis / 1000.0))
+    val date = NSDate.dateWithTimeIntervalSince1970(millis / 1000.0)
+    return formatter.stringFromDate(date)
 }
