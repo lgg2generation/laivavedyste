@@ -54,7 +54,8 @@ nurodyk savo Apple ID (nemokamas asmeninis sertifikatas galioja 7 dienas;
 App Store platinimui reikia Apple Developer Program – 99 $/m.).
 
 Minimali versija – iOS 16. CI (macOS runner) kiekvieną push'ą patikrina, kad iOS
-versija susikompiliuoja, ir įkelia `laivavedys-ios-simulator-app` artefaktą.
+versija susikompiliuoja, ir įkelia `laivavedys-ios-simulator-app` artefaktą
+(paleidžiamas simuliatoriuje, į tikrą telefoną reikia pasirašyti Xcode).
 
 ## Atsakymų šaltinis — svarbu
 
