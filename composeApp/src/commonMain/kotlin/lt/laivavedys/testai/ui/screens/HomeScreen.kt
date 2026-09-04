@@ -11,7 +11,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Refresh
-import androidx.compose.material.icons.filled.List
+import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -47,7 +47,7 @@ fun HomeScreen(state: AppState) {
                 title = { Text("Laivavedžio testai") },
                 actions = {
                     IconButton(onClick = { state.goProgress() }) {
-                        Icon(Icons.Filled.List, contentDescription = "Progresas")
+                        Icon(Icons.AutoMirrored.Filled.List, contentDescription = "Progresas")
                     }
                     IconButton(onClick = { showReset = true }) {
                         Icon(Icons.Filled.Refresh, contentDescription = "Atstatyti")

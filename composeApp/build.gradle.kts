@@ -10,6 +10,11 @@ plugins {
 }
 
 kotlin {
+    compilerOptions {
+        // expect/actual classes are still marked Beta; the Storage class uses one.
+        freeCompilerArgs.add("-Xexpect-actual-classes")
+    }
+
     androidTarget {
         @OptIn(ExperimentalKotlinGradlePluginApi::class)
         compilerOptions {

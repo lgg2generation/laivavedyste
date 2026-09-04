@@ -27,7 +27,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.ImageBitmap
-import androidx.compose.ui.graphics.decodeToImageBitmap
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import lt.laivavedys.testai.resources.Res
@@ -50,7 +49,7 @@ fun AssetImage(name: String, modifier: Modifier = Modifier) {
     LaunchedEffect(name) {
         if (bitmap == null) {
             val decoded = runCatching {
-                Res.readBytes("files/images/$name").decodeToImageBitmap()
+                decodeImageBytes(Res.readBytes("files/images/$name"))
             }.getOrNull()
             if (decoded != null) {
                 imageCache[name] = decoded
