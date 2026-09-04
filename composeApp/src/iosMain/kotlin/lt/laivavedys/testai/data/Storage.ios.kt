@@ -1,4 +1,8 @@
+@file:OptIn(ExperimentalForeignApi::class)
+
 package lt.laivavedys.testai.data
+
+import kotlinx.cinterop.ExperimentalForeignApi
 
 import platform.Foundation.NSDate
 import platform.Foundation.dateWithTimeIntervalSince1970
