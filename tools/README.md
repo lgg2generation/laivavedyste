@@ -12,8 +12,8 @@ Tada:
 ```bash
 python3 tools/extract.py  docx out                              # -> out/questions_raw.json + out/images/
 python3 tools/finalize.py out/questions_raw.json \
-        data/answers_derived.json app/src/main/assets/questions.json
-cp out/images/* app/src/main/assets/images/
+        data/answers_derived.json composeApp/src/commonMain/composeResources/files/questions.json
+cp out/images/* composeApp/src/commonMain/composeResources/files/images/
 ```
 
 * `extract.py` sugrupuoja pastraipas į klausimus, atpažįsta pabrauktą (teisingą)

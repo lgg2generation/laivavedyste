@@ -1,7 +1,11 @@
 # Laivavedžio testai
 
-Android programėlė motorinių pramoginių laivų laivavedžio kursų klausimynams
-spręsti. Klausimai paimti iš 15 kursų dokumentų (611 klausimų su paveikslėliais).
+Programėlė **Android ir iPhone** motorinių pramoginių laivų laivavedžio kursų
+klausimynams spręsti. Vienas bendras kodas (Kotlin Multiplatform + Compose
+Multiplatform): visi ekranai, logika ir duomenys yra `commonMain`, o kiekvienai
+platformai lieka tik paleidimo taškas ir failų saugojimas.
+
+Klausimai paimti iš 15 kursų dokumentų (611 klausimų su paveikslėliais).
 
 ## Ką moka
 
@@ -18,20 +22,39 @@ spręsti. Klausimai paimti iš 15 kursų dokumentų (611 klausimų su paveikslė
 * **Kartojimo režimas** – pirmiausia pateikia raudonus ir geltonus klausimus.
 * Progresas saugomas įrenginyje (`progress.json`), interneto nereikia.
 
-## Kaip gauti APK
+## Android
 
-Kiekvienas `push` paleidžia GitHub Actions darbą **Build APK**. Atsisiųsk
-`laivavedys-debug-apk` artefaktą iš to darbo ir įsidiek telefone (reikės leisti
-diegti iš nežinomų šaltinių).
+Kiekvienas `push` paleidžia GitHub Actions darbą **Build**. Atsisiųsk
+`laivavedys-debug-apk` artefaktą ir įsidiek telefone (reikės leisti diegti iš
+nežinomų šaltinių).
 
 Vietoje:
 
 ```bash
-./gradlew assembleDebug
-# app/build/outputs/apk/debug/app-debug.apk
+./gradlew :composeApp:assembleDebug
+# composeApp/build/outputs/apk/debug/composeApp-debug.apk
 ```
 
-Reikia Android SDK (compileSdk 34) ir JDK 17. Minimali Android versija – 7.0 (API 24).
+Reikia Android SDK (compileSdk 34) ir JDK 17. Minimali versija – Android 7.0 (API 24).
+
+## iPhone
+
+Tai tikra native iOS programa – ta pati Compose sąsaja, sukompiliuota į iOS
+framework'ą. **Kompiliavimui reikia Mac su Xcode** (kitaip Apple neleidžia).
+
+```bash
+open iosApp/iosApp.xcodeproj
+```
+
+Xcode pats paleidžia Gradle, susikompiliuoja Kotlin framework'ą ir paleidžia
+programą simuliatoriuje arba prijungtame telefone.
+
+Norint įsidiegti į savo iPhone, Xcode → target `iosApp` → Signing & Capabilities
+nurodyk savo Apple ID (nemokamas asmeninis sertifikatas galioja 7 dienas;
+App Store platinimui reikia Apple Developer Program – 99 $/m.).
+
+Minimali versija – iOS 16. CI (macOS runner) kiekvieną push'ą patikrina, kad iOS
+versija susikompiliuoja, ir įkelia `laivavedys-ios-simulator-app` artefaktą.
 
 ## Atsakymų šaltinis — svarbu
 
@@ -52,9 +75,16 @@ taisyti ir perleisti vamzdyną (žr. `tools/README.md`).
 ## Struktūra
 
 ```
-app/                     Android programėlė (Kotlin + Jetpack Compose, Material 3)
-  src/main/assets/       questions.json + 225 paveikslėliai
-data/answers_derived.json  8–15 temų atsakymai su pagrindimais
-data/questions_raw.json    neapdorotas ekstrakcijos rezultatas
-tools/                   .doc -> questions.json vamzdynas
+composeApp/src/commonMain/     bendras kodas: ekranai, logika, duomenys
+  kotlin/.../ui/screens/       HomeScreen, QuizScreen, ResultScreen, ProgressScreen
+  composeResources/files/      questions.json + 225 paveikslėliai
+composeApp/src/androidMain/    MainActivity, piktogramos, failų saugojimas
+composeApp/src/iosMain/        MainViewController, failų saugojimas
+iosApp/                        Xcode projektas (SwiftUI apvalkalas)
+data/answers_derived.json      8–15 temų atsakymai su pagrindimais
+data/questions_raw.json        neapdorotas ekstrakcijos rezultatas
+tools/                         .doc -> questions.json vamzdynas
 ```
+
+Platformoms specifinis kodas – tik du failai (`Storage.android.kt`,
+`Storage.ios.kt`) plius paleidimo taškai. Visa kita bendra.
