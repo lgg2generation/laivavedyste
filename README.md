@@ -59,22 +59,20 @@ versija susikompiliuoja, ir įkelia `laivavedys-ios-simulator-app` artefaktą
 
 ## Atsakymų šaltinis — svarbu
 
-* **1–7, 11 ir 12 temos (454 klausimai)** – teisingas atsakymas paimtas tiesiai
-  iš dokumento, kur jis pabrauktas. 11 ir 12 temų pažymėtos versijos gautos
-  vėliau; 11 temos versijoje yra ir 19 klausimų, kurių pirmajame faile nebuvo.
-* **8–10, 13–15 temos ir keli 2 temos klausimai (178 klausimai)** – šaltinio
-  dokumentuose atsakymai **nepažymėti** (patikrinta dviem nepriklausomais `.doc`
-  skaitytuvais: nėra nei pabraukimo, nei kitokio formatavimo skirtumo). Šiuos
-  atsakymus nustatė Claude, o vėliau dauguma jų sutikrinti su oficialiais
-  tekstais: EVVKLT (CEVNI) 7–8 priedais, ANK, Vidaus vandenų transporto
-  kodeksu, avarijų tyrimo taisyklėmis, Klaipėdos uosto naudojimo taisyklėmis,
-  LTSA aprūpinimo reikalavimais ir kursų medžiaga.
+* **Visos 15 temų (630 iš 634 klausimų)** – teisingas atsakymas paimtas tiesiai
+  iš dokumento, kur jis pabrauktas (15 temoje – paryškintas). 8–15 temų
+  pažymėtos versijos gautos vėliau; pirmosiose kopijose atsakymai nebuvo
+  pažymėti. Pažymėtose 9 ir 11 temų versijose buvo ir 21 klausimas, kurių
+  pirmosiose kopijose nebuvo. Po pažymėtu atsakymu dokumente atspausdinta
+  teisės akto nuoroda programėlėje rodoma tik atsakius.
+* **4 klausimai** – atskirti iš suklijuotų dokumento vietų (t2_37_1, t15_8_1),
+  arba dokumente pažymėti du variantai (t14_8), arba nepažymėti (t2_19). Jų
+  atsakymai nustatyti pagal teisės aktų tekstus.
 
-Programėlėje toks klausimas po atsakymo pažymimas užrašu „Atsakymas patikrintas“
-(sutikrinta su oficialiu tekstu) arba „Atsakymas atkurtas“ su patikimumo lygiu
-(aukštas / vidutinis / žemas) ir trumpu pagrindimu. Visi atkurti atsakymai
-surašyti `data/answers_derived.json` (eilė patikrinimui –
-`data/derived_answers_review.csv`), rankiniai ekstrakcijos pataisymai –
+Programėlėje šie klausimai po atsakymo pažymimi užrašu „Atsakymas patikrintas“
+arba „Atsakymas atkurtas“ su trumpu pagrindimu. Jie surašyti
+`data/answers_derived.json`, rankiniai ekstrakcijos pataisymai (suklijuoti
+klausimai, trūkstamas t8_43 ženklas, iškirptas iš EVVKLT 7 priedo) –
 `data/fixes.json`. Juos galima taisyti ir perleisti vamzdyną (žr. `tools/README.md`).
 
 ## Struktūra

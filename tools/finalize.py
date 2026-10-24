@@ -78,6 +78,10 @@ def main():
                 refs.append(m + ')' * (m.count('(') - m.count(')')))
             text = REF_RE.sub(' ', text)
             options.append({'text': clean(text), 'images': o['images']})
+        # Rule reference printed after the correct option in the answer-marked
+        # copy of the document (kept out of the option text, see header).
+        if q.get('doc_reference'):
+            refs.append(q['doc_reference'])
 
         answer = q['answer']
         source = 'doc' if answer is not None else None
@@ -103,6 +107,8 @@ def main():
             if overrides[qid].get('confidence'):
                 item['confidence'] = overrides[qid]['confidence']
         fix = fixes.get(qid, {})
+        if 'images' in fix:
+            item['images'] = fix['images']
         for idx, opt in fix.get('options', {}).items():
             item['options'][int(idx)].update(opt)
         out.append(item)
