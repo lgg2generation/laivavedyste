@@ -59,19 +59,23 @@ versija susikompiliuoja, ir įkelia `laivavedys-ios-simulator-app` artefaktą
 
 ## Atsakymų šaltinis — svarbu
 
-* **1–7 temos (345 klausimai)** – teisingas atsakymas paimtas tiesiai iš
-  dokumento, kur jis pabrauktas.
-* **8–15 temos (265 klausimai) ir vienas 2 temos klausimas** – šaltinio
+* **1–7, 11 ir 12 temos (454 klausimai)** – teisingas atsakymas paimtas tiesiai
+  iš dokumento, kur jis pabrauktas. 11 ir 12 temų pažymėtos versijos gautos
+  vėliau; 11 temos versijoje yra ir 19 klausimų, kurių pirmajame faile nebuvo.
+* **8–10, 13–15 temos ir keli 2 temos klausimai (178 klausimai)** – šaltinio
   dokumentuose atsakymai **nepažymėti** (patikrinta dviem nepriklausomais `.doc`
   skaitytuvais: nėra nei pabraukimo, nei kitokio formatavimo skirtumo). Šiuos
-  atsakymus nustatė Claude pagal COLREGS, CEVNI laivybos ženklus, MARPOL, UTB
-  kanalų lenteles ir LR teisės aktus.
+  atsakymus nustatė Claude, o vėliau dauguma jų sutikrinti su oficialiais
+  tekstais: EVVKLT (CEVNI) 7–8 priedais, ANK, Vidaus vandenų transporto
+  kodeksu, avarijų tyrimo taisyklėmis, Klaipėdos uosto naudojimo taisyklėmis,
+  LTSA aprūpinimo reikalavimais ir kursų medžiaga.
 
-Programėlėje toks klausimas po atsakymo pažymimas užrašu „Atsakymas atkurtas“ su
-patikimumo lygiu (aukštas / vidutinis / žemas) ir trumpu pagrindimu. Žemo
-patikimumo atsakymus (daugiausia tikslios ANK baudų sumos) verta pasitikrinti
-šaltinyje. Visi atsakymai surašyti `data/answers_derived.json` – juos galima
-taisyti ir perleisti vamzdyną (žr. `tools/README.md`).
+Programėlėje toks klausimas po atsakymo pažymimas užrašu „Atsakymas patikrintas“
+(sutikrinta su oficialiu tekstu) arba „Atsakymas atkurtas“ su patikimumo lygiu
+(aukštas / vidutinis / žemas) ir trumpu pagrindimu. Visi atkurti atsakymai
+surašyti `data/answers_derived.json` (eilė patikrinimui –
+`data/derived_answers_review.csv`), rankiniai ekstrakcijos pataisymai –
+`data/fixes.json`. Juos galima taisyti ir perleisti vamzdyną (žr. `tools/README.md`).
 
 ## Struktūra
 
@@ -82,7 +86,8 @@ composeApp/src/commonMain/     bendras kodas: ekranai, logika, duomenys
 composeApp/src/androidMain/    MainActivity, piktogramos, failų saugojimas
 composeApp/src/iosMain/        MainViewController, failų saugojimas
 iosApp/                        Xcode projektas (SwiftUI apvalkalas)
-data/answers_derived.json      8–15 temų atsakymai su pagrindimais
+data/answers_derived.json      atkurti atsakymai su pagrindimais
+data/fixes.json                rankiniai ekstrakcijos pataisymai
 data/questions_raw.json        neapdorotas ekstrakcijos rezultatas
 tools/                         .doc -> questions.json vamzdynas
 ```
