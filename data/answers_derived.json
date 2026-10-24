@@ -572,8 +572,8 @@
  },
  "t9_7": {
   "answer": 0,
-  "confidence": "low",
-  "note": "Miltelinių gesintuvų laikymo intervalas –40…+60 °C; vertėtų pasitikrinti gamintojo reikalavimus."
+  "confidence": "medium",
+  "note": "Gesintuvų techninės priežiūros taisyklės (PAGD 2010-12-20 Nr. 1-360), 14 p.: visų gesintuvų aukščiausia veikimo temperatūra – 60 °C ar aukštesnė, miltelinių žemiausia – −20 °C, −30 °C ar žemesnė. Tik variantas „nuo −40 °C iki 60 °C“ atitinka 60 °C ribą; laikymo temperatūra taisyklėse atskirai nenurodyta."
  },
  "t9_8": {
   "answer": 0,
@@ -583,7 +583,7 @@
  "t9_9": {
   "answer": 0,
   "confidence": "verified",
-  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 62–63 p.: gesintuvai tikrinami įgulos kas mėnesį, techninės priežiūros bazėse – kartą per metus; kartą per 10 metų atliekamas hidraulinis bandymas."
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 62–63 p.: gesintuvai tikrinami įgulos kas mėnesį, techninės priežiūros bazėse – kartą per metus; kartą per 10 metų atliekamas hidraulinis bandymas. Tą patį nustato Gesintuvų techninės priežiūros taisyklės (PAGD 2010-12-20 Nr. 1-360), 9 p. (techninė priežiūra ne rečiau kaip kartą per metus) ir 49 p. (hidrauliniai bandymai ne rečiau kaip kas 10 metų)."
  },
  "t9_10": {
   "answer": 1,
