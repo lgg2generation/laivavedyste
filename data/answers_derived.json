@@ -1,5 +1,5 @@
 {
- "_comment": "Answers for topics 8-15. The source .doc files for these topics ship without an answer key (verified with two independent readers: no underline, no other distinguishing formatting). These were derived by Claude from the subject matter and from cross-references inside each topic. confidence: high = cross-checked against another question in the same bank or against a regulation; medium = follows clearly from the subject matter; low = plausible but the exact figure could not be verified offline.",
+ "_comment": "Answers for topics 8-15. The source .doc files for these topics ship without an answer key (verified with two independent readers: no underline, no other distinguishing formatting). These were derived by Claude from the subject matter and from cross-references inside each topic. confidence: high = cross-checked against another question in the same bank or against a regulation; medium = follows clearly from the subject matter; low = plausible but the exact figure could not be verified offline. verified = checked against the official text (e.g. the Europos vidaus vandenų kelių laivybos taisyklės (EVVKLT/CEVNI) annexes 7 and 8) or confirmed by the user.",
  "t10_1": {
   "answer": 0,
   "confidence": "high",
@@ -197,13 +197,13 @@
  },
  "t13_11": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Vidaus vandenyse išmesti visas šiukšles draudžiama."
+  "confidence": "verified",
+  "note": "EVVKLT 9.03 str. 1 d.: draudžiama išmesti, išpilti ar išleisti į vandenų kelią ūkines šiukšles, valymo atliekas ir kitas laive susidarančias atliekas."
  },
  "t13_12": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Atliekų deginimas vidaus ir teritoriniuose vandenyse draudžiamas visiems laivams."
+  "confidence": "verified",
+  "note": "EVVKLT 9.04 str. 2 d. b p.: draudžiama deginti atliekas laive."
  },
  "t13_13": {
   "answer": 0,
@@ -1052,18 +1052,18 @@
  },
  "t8_1": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Vertikali juosta – būti ypač dėmesingiems; horizontali juosta reikštų „sustoti“ (plg. t8_7)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.8 (vertikali juosta) – būti itin budriems; lentelė „1 000“ virš ženklo – atstumas iki vietos, kur galioja reikalavimas."
  },
  "t8_2": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Kelto ženklas su papildoma juosta – nesavaeigis (lynu traukiamas) keltas; be juostos – savaeigis (plg. t8_46)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.4 a): keltas su balta juosta – nejudantis savarankiškai (nesavaeigis)."
  },
  "t8_3": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Žemyn nukreiptas trikampis – ribotas aukštis virš vandens (plg. t8_24)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, C.2: trikampis viršūne žemyn – laisvas aukštis virš vandens ribotas."
  },
  "t8_4": {
   "answer": 2,
@@ -1072,128 +1072,128 @@
  },
  "t8_5": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Vienas į kitą nukreipti trikampiai – ribotas farvaterio plotis, nurodytas metrais."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, C.3: du trikampiai iš šonų – kelio ar farvaterio plotis ribotas."
  },
  "t8_6": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Žalia-balta-žalia – plaukti leidžiama (plg. raudoną t8_56)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.1: žalia–balta–žalia – leidžiama praplaukti."
  },
  "t8_7": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Horizontali juosta – privaloma sustoti; papildoma lentelė rodo 1000 m iki muitinės."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.5 (horizontali juosta) – nustatyta sustoti; papildoma lentelė „Muitinė“."
  },
  "t8_8": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Perbrauktas užrašas SPORT – draudžiama plaukti sportiniais ir pramoginiais laivais."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.13: perbrauktas „SPORT“ – draudimas plaukioti sportiniais arba pramoginiais laivais."
  },
  "t8_9": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Stačiakampė lentelė virš ženklo nurodo atstumą: už 1000 m leidžiama stovėti."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.5: „P“ – leidžiama stovėti; lentelė „1 000“ – už 1000 m."
  },
  "t8_10": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Priešingomis kryptimis nukreiptos rodyklės – draudžiama ir prasilenkti, ir lenkti (plg. t8_50)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.4: dvi priešpriešinės rodyklės – draudžiama susitikti ir aplenkti."
  },
  "t8_11": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Stačiakampė lentelė (1500) – atstumas, rodyklė (1000) – atkarpos ilgis."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.5 su lentele „1 500“ (atstumas) ir rodykle „1 000“ (ruožo ilgis) – II skyriaus 1 ir 3 p."
  },
  "t8_12": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Knechto ženklas su stačiakampe 500 lentele – už 500 m leidžiama švartuotis prie kranto."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.7: knechtas – leidžiama švartuotis prie kranto; lentelė „500“ – už 500 m."
  },
  "t8_13": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Rodyklinė lentelė nurodo atkarpos ilgį – 1000 m nuo ženklo stovėti draudžiama."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.5 su rodykle „1000“ – stovėti draudžiama 1000 m ruože rodyklės kryptimi (II skyriaus 3 p.)."
  },
  "t8_14": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Juodas taškas – privaloma duoti garsinį signalą (plg. t8_52); lentelė rodo, kad tai po 1000 m."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.7 (juodas taškas) – signalizuoti garsiniu signalu; lentelė „—“ – vienu ilgu."
  },
  "t8_15": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Raudonai apvestas VHF ženklas yra įpareigojantis – privaloma susisiekti nurodytu kanalu."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.11 b): raudonas rėmas „VHF 11“ – privaloma užmegzti ryšį nurodytu kanalu (mėlynas E.23 – tik informacija)."
  },
  "t8_16": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Perbrauktas inkaras – draudžiama inkaruotis ir vilkti inkarus, trosus bei grandines."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.6: perbrauktas inkaras – draudžiama stovėti nuleidus inkarą ir vilkti inkarus, lynus, grandines."
  },
  "t8_17": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Perbrauktas skaičius – draudžiama stovėti nurodyto pločio ruože, matuojant nuo ženklo."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.5.1: perbrauktas skaičius – draudžiama stovėti metrais nurodytame pločio ruože nuo ženklo."
  },
  "t8_18": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Skaičius be perbraukimo – neviršyti nurodyto greičio km/h."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.6: skaičius rėmelyje – neviršyti nurodyto greičio (km/h)."
  },
  "t8_19": {
-  "answer": 2,
-  "confidence": "medium",
-  "note": "Perbrauktas greitaeigis katereris – tokiems laivams plaukti draudžiama."
+  "answer": 0,
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.18: perbrauktas greitaeigis kateris – „Mažųjų sportinių ir pramoginių laivų greitojo plaukimo zonos pabaiga“."
  },
  "t8_20": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Perbrauktos bangos – draudžiama sukelti bangavimą."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.9: perbrauktos bangos – draudžiama kelti bangavimą."
  },
  "t8_21": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Perbrauktas vandens motociklas – jais plaukioti draudžiama."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.20: perbrauktas vandens motociklas."
  },
  "t8_22": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Rodyklė pirmyn – draudimas stovėti galioja 1000 m atkarpoje nuo ženklo."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.5 su rodykle „1000“ – stovėti draudžiama 1000 m ruože."
  },
  "t8_23": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Trikampis viršūne į viršų po skaičiumi – ribotas gylis (2,2 m)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, C.1: trikampis viršūne aukštyn apačioje – ribotas gylis."
  },
  "t8_24": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Trikampis viršūne žemyn virš skaičiaus – ribotas aukštis virš vandens (7,5 m)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, C.2: trikampis viršūne žemyn viršuje – ribotas laisvas aukštis."
  },
  "t8_25": {
-  "answer": 1,
-  "confidence": "medium",
-  "note": "Perbrauktas sraigtas – draudžiama plaukti (švartuotis) dirbant laivo varytuvams."
+  "answer": 0,
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.12: perbrauktas sraigtas – „Draudžiama plaukioti laivais su mechaniniu varikliu“."
  },
  "t8_26": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Perbrauktas knechtas su lynais – draudžiama švartuotis prie kranto."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.7: perbrauktas knechtas – draudžiama švartuotis prie kranto."
  },
  "t8_27": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Perbrauktas laivo nuleidimas nuo kranto – draudžiamas laivų nuleidimas ar iškėlimas."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.19: nuleisti laivus į vandenį ar kelti į krantą draudžiama."
  },
  "t8_28": {
-  "answer": 0,
-  "confidence": "medium",
-  "note": "Perbrauktas burlaivis – draudžiama plaukti su pakeltomis burėmis (varikliu plaukti galima)."
+  "answer": 1,
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.15: perbrauktas burlaivis – „Draudžiama plaukioti buriniais laivais“."
  },
  "t8_29": {
   "answer": 2,
-  "confidence": "low",
-  "note": "Simbolis vaizduoja šoninį kelią, susijungiantį su pagrindiniu; reikšmę verta pasitikrinti kurso medžiagoje."
+  "confidence": "medium",
+  "note": "EVVKLT 7 priedas, B.9 a): „T“ formos ženklas – išplaukti į pagrindinį kelią ar jį kirsti galima tik nepriverčiant juo plaukiančių laivų keisti kurso ar greičio. Tiksliai tokio varianto nėra – artimiausias „Susikirtimas su pagrindiniu vandens keliu“."
  },
  "t8_30": {
   "answer": 1,
@@ -1202,58 +1202,58 @@
  },
  "t8_31": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Vienas geltonas rombas – plaukimas abiem kryptimis; žali ženklai – rekomendacija laikytis nurodyto tarpatramio."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.1 a) (vienas geltonas) + D.2 (žali žiburiai šonuose) – abiem kryptimis, rekomenduojama laikytis pažymėtos erdvės."
  },
  "t8_32": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Du geltoni rombai – tik viena kryptimi; raudoni ženklai – draudžiama plaukti už pažymėtų ribų."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.1 b) (du geltoni) + A.10 (raudoni–balti skydai) – tik nurodytąja kryptimi, draudžiama už pažymėtos erdvės."
  },
  "t8_33": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Vienas geltonas ženklas – plaukimas leidžiamas abiem kryptimis."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.1 a): vienas geltonas – rekomenduojama praplaukti abiem kryptimis."
  },
  "t8_34": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Du raudoni žiburiai ant tilto – plaukimas po tiltu draudžiamas."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.1: raudoni žiburiai – praplaukti draudžiama."
  },
  "t8_35": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Vienas geltonas rombas (abi kryptys) su raudonais ribų ženklais (draudžiama už ribų)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.1 a) + A.10 – abiem kryptimis, draudžiama už pažymėtos erdvės."
  },
  "t8_36": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Ištisai raudoni žiburiai ar skydai – plaukti draudžiama."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.1: raudoni žiburiai – praplaukti draudžiama."
  },
  "t8_37": {
-  "answer": 1,
-  "confidence": "medium",
-  "note": "Raudonas žiburys virš neįjungto balto – plaukti draudžiama."
+  "answer": 0,
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.9: raudonas žiburys virš balto (arba perbrauktos bangos) – „Draudžiama kelti bangavimą“."
  },
  "t8_38": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Du raudonai balti skydai su tarp jų pažymėta erdve – plaukti leidžiama tik tarp jų."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.10: raudoni–balti skydai – draudžiama praplaukti ne pažymėta erdve."
  },
  "t8_39": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Raudonas kartu su žaliu – plaukti dar draudžiama, bet reikia pasiruošti plaukti."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.11: praplaukti draudžiama, bet reikia pasiruošti plaukti."
  },
  "t8_40": {
   "answer": 0,
-  "confidence": "low",
-  "note": "Geltoni ženklai su juodu kryžiumi prie uosto vartų – pagrindiniu keliu plaukiantys laivai praleidžia išplaukiančius; verta pasitikrinti."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.10: du geltoni žiburiai su juodu kryžiumi – pagrindiniu keliu plaukiantys laivai duoda kelią išplaukiantiems iš uosto ar intako."
  },
  "t8_41": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Juodas smaigalys su skaičiumi – farvateris nutolęs nuo kranto, laikytis ženkle nurodyto atstumo."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, C.5: farvateris nutolęs nuo kranto; skaičius – atstumas metrais."
  },
  "t8_43": {
   "answer": 1,
@@ -1262,68 +1262,68 @@
  },
  "t8_44": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Du geltoni ženklai – rekomenduojama plaukti tik nurodyta kryptimi."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.1 b): du geltoni – tik nurodytąja kryptimi, priešinga draudžiama."
  },
  "t8_45": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Žali ribų ženklai su pažymėta erdve – rekomenduojama plaukti nurodytoje erdvėje po tiltais."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, D.2: žali–balti skydai / žali žiburiai – rekomenduojama laikytis nurodytos erdvės."
  },
  "t8_46": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Kelto ženklas be papildomos juostos – savaeigis keltas (plg. t8_2)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.4 b): keltas be juostos – judantis savarankiškai."
  },
  "t8_47": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Romėniškas skaičius mėlyname ženkle – didžiausias bortais prie krantinės švartuojamų laivų skaičius."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, E.5.3: romėniškas skaičius – didžiausias laivų, stovinčių bortas prie borto, skaičius."
  },
  "t8_48": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "CEVNI sistemoje raudoni ženklai žymi dešiniąją pusę – farvateris prie dešniojo kranto."
+  "confidence": "verified",
+  "note": "EVVKLT 8 priedas III.A.1: raudonas skydas su baltomis juostomis / raudonas rėmas – farvateris prie dešiniojo kranto."
  },
  "t8_49": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Žali ženklai žymi kairiąją pusę – farvateris prie kairiojo kranto."
+  "confidence": "verified",
+  "note": "EVVKLT 8 priedas III.A.2: žalia–balta rombo formos lentelė / žalias rėmas – farvateris prie kairiojo kranto."
  },
  "t8_50": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Ta pačia kryptimi nukreiptos perbrauktos rodyklės – bet koks lenkimas draudžiamas."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.2: perbrauktos dvi vienakryptės rodyklės – draudžiamas bet koks lenkimas."
  },
  "t8_51": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Rodyklė ženkle – plaukimo krypties nurodymas."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.1: rodyklė – plaukti nurodyta kryptimi."
  },
  "t8_52": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Juodas taškas raudoname rėme – privaloma duoti garsinį signalą."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, B.7: juodas taškas – signalizuoti garsiniu signalu."
  },
  "t8_53": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Raudoni farvaterio ženklai (cilindriniai) žymi dešiniąją farvaterio pusę."
+  "confidence": "verified",
+  "note": "EVVKLT 8 priedas II.1: raudonos cilindrinės bujos – dešinioji farvaterio pusė."
  },
  "t8_54": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Žali kūginiai ženklai žymi kairiąją farvaterio pusę."
+  "confidence": "verified",
+  "note": "EVVKLT 8 priedas II.2: žalios kūginės bujos – kairioji farvaterio pusė."
  },
  "t8_55": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Raudonai žaliai dryžuoti ženklai žymi farvaterio išsišakojimą."
+  "confidence": "verified",
+  "note": "EVVKLT 8 priedas II.3: raudonos–žalios horizontalios juostos – farvaterio išsišakojimas."
  },
  "t8_56": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Raudona-balta-raudona – plaukti draudžiama (plg. žalią t8_6)."
+  "confidence": "verified",
+  "note": "EVVKLT 7 priedas, A.1: raudona–balta–raudona – praplaukti draudžiama."
  },
  "t2_19": {
   "answer": 1,

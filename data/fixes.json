@@ -1,0 +1,55 @@
+{
+  "t2_37": {
+    "options": {
+      "2": {
+        "text": "Kardinalinės ženklinimo sistemos šiaurinio ženklo boja ir gairė",
+        "images": []
+      }
+    },
+    "insertAfter": [
+      {
+        "id": "t2_37_1",
+        "topic": 2,
+        "number": 37,
+        "text": "Ką nurodo paveiksle pavaizduoti navigaciniai ženklai. Europos vidaus vandenų laivybos taisyklės:",
+        "images": [
+          "img_4ca8d10f3d89d5a6.jpeg"
+        ],
+        "options": [
+          {
+            "text": "Rekomenduojamas farvateris, plaukimas leidžiamas abiem kryptimis",
+            "images": []
+          },
+          {
+            "text": "Rekomenduojamas farvateris, plaukimas leidžiamas tik plaukiantiems žemyn",
+            "images": []
+          },
+          {
+            "text": "Rekomenduojamas farvateris, plaukimas leidžiamas tik plaukiantiems aukštyn",
+            "images": []
+          }
+        ],
+        "answer": 0,
+        "answerSource": "derived",
+        "reference": "EVVKLT 7 priedas, D.1 a)",
+        "note": "Vienas geltonas žiburys (skydas) virš tarpatramio – D.1 a) „Rekomenduojama praplaukti abiem kryptimis“. Du geltoni reikštų D.1 b) – tik nurodytąja kryptimi.",
+        "confidence": "verified"
+      }
+    ]
+  },
+  "t6_9": {
+    "options": {
+      "2": {
+        "text": "Laivas, pervežantis sveikatai pavojingą pirmos klasės cheminį krovinį",
+        "images": []
+      }
+    }
+  },
+  "t11_7": {
+    "options": {
+      "0": {
+        "text": "Rajonas, kuris apima teritorinę jūrą"
+      }
+    }
+  }
+}
