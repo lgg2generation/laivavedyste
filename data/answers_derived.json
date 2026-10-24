@@ -281,14 +281,14 @@
   "note": "Jūrų uostų akvatorijose tiria uostų kapitonai, dalyvaujant įgaliotam Administracijos pareigūnui."
  },
  "t14_7": {
-  "answer": 2,
-  "confidence": "medium",
-  "note": "Vidaus vandenyse tyrimą atlieka laivo savininkas (valdytojas), dalyvaujant įgaliotam Inspekcijos pareigūnui."
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 27 str. 6 d.: „Vidaus vandenų transporto priemonių avarijas tiria Transporto saugos administracija.“ Valstybinė vidaus vandenų laivybos inspekcija nebeegzistuoja."
  },
  "t14_8": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Teritorinėje jūroje – Inspekcija, dalyvaujant saugios laivybos administracijos įgaliotam pareigūnui."
+  "confidence": "low",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 27 str. 4 ir 6 d.: avarijas, įvykusias ir teritorinėje jūroje, tiria Transporto saugos administracija, todėl variantas su Inspekcija greičiausiai pasenęs; kuris iš dviejų LTSA variantų teisingas, kodeksas nenurodo."
  },
  "t14_9": {
   "answer": 0,
@@ -392,33 +392,33 @@
  },
  "t11_1": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Atitinka kodekso vidaus vandenų uosto apibrėžimą; kiti du variantai aprašo reidą ir prieplauką."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), „Vidaus vandenų uostas – vidaus vandenų uosto akvatorija ir jo teritorija su joje esančiomis krantinėmis, kurių ilgis trigubai didesnis už ... didžiausio laivo ilgį ...“"
  },
  "t11_3": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pažodinis kodekso krantinės apibrėžimas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 13 str. 1 d.: „Krantinė – nustatyto ilgio, pločio ir didžiausiosios apkrovos hidrotechninis įrenginys ...“"
  },
  "t11_5": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Plūduriuojantysis įrenginys turi mechaninę įrangą (žemkasė, dokas, kranas); nesavaeigiai statiniai yra plūduriuojančiosios priemonės (plg. t11_39)."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str.: „Plūduriuojantysis įrenginys – mechaninę įrangą turinti plaukiojanti vidaus vandenų transporto priemonė ...“"
  },
  "t11_7": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Pakrančių plaukiojimo rajonas apima teritorinę jūrą – kodekso formuluotė."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 24¹ str. 1 d. 2 p.: „pakrančių plaukiojimo rajonas, kuris apima teritorinę jūrą“."
  },
  "t11_9": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Uostai ir prieplaukos gali priklausyti ir valstybei ar savivaldybėms, ir privatiems asmenims."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 13 str. 12 d.: „Vidaus vandenų uostai ir prieplaukos gali būti valstybės, savivaldybių ir privatūs ...“"
  },
  "t11_11": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pažodinis kodekso apibrėžimas su nuoroda į 241 straipsnio plaukiojimo rajonus."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), „Vidaus vandenų transporto priemonės – vidaus vandenų, žvejybos, mažieji, pramoginiai, sportiniai, tradiciniai ir asmeniniai laivai ...“"
  },
  "t11_14": {
   "answer": 1,
@@ -426,14 +426,14 @@
   "note": "„Žmogus už borto“ – trys ilgi garsiniai signalai ir skelbimas; septyni trumpi ir vienas ilgas yra bendrasis pavojus."
  },
  "t11_15": {
-  "answer": 0,
-  "confidence": "low",
-  "note": "Apsaugos juosta – 15 m nuo vandens krašto; tikslų plotį verta pasitikrinti teisės akte."
+  "answer": 1,
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 11 str. 2 d.: „Apsaugos juostos dalis – 20 metrų pločio žemės juosta nuo vandens krašto arba kranto briaunos stačiose pakrantėse – vadinama kranto juosta.“"
  },
  "t11_17": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Pagal darbų pobūdį – keleiviniai, krovininiai, mišrieji, žvejybiniai ir pramoginių laivų."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 13 str. 11 d.: „... gali būti keleiviniai, krovininiai, mišrieji, žvejybiniai ir pramoginių laivų.“"
  },
  "t11_18": {
   "answer": 1,
@@ -442,8 +442,8 @@
  },
  "t11_19": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Valstybinę saugios laivybos priežiūrą vykdo Lietuvos transporto saugos administracija."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), Valstybinę laivybos vidaus vandenyse priežiūrą atlieka Transporto saugos administracija."
  },
  "t11_22": {
   "answer": 2,
@@ -457,8 +457,8 @@
  },
  "t11_24": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Kodekso formuluotė – iki Klaipėdos valstybinio jūrų uosto vartų."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 24¹ str. 1 d. 1 p.: „vidaus vandenų plaukiojimo rajonas ... iki Klaipėdos valstybinio jūrų uosto vartų“."
  },
  "t11_25": {
   "answer": 0,
@@ -472,13 +472,13 @@
  },
  "t11_28": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pažodinis kodekso pramoginio laivo apibrėžimas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str.: „Pramoginis laivas – bet kokiu būdu varoma sportui ir laisvalaikiui skirta vidaus vandenų transporto priemonė.“"
  },
  "t11_30": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Vidaus vandenų keliai skirstomi į valstybinės ir vietinės reikšmės."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), „Vidaus vandenų keliai skirstomi į valstybinės ir vietinės reikšmės.“"
  },
  "t11_33": {
   "answer": 0,
@@ -488,17 +488,17 @@
  "t11_35": {
   "answer": 1,
   "confidence": "high",
-  "note": "Vidaus vandenų transportas – ūkinės veiklos sritis, apimanti vežimą, žvejybą, buksyravimą ir infrastruktūros eksploatavimą."
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.) dabar apibrėžia: „sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti“. Nė vienas variantas to pažodžiui neatitinka; pasirinktas senesnės redakcijos apibrėžimas."
  },
  "t11_37": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Pažodinis kodekso mažojo laivo apibrėžimas (iki 20 m, sandauga mažiau kaip 100 m³)."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str. 3 d.: mažasis laivas – korpuso ilgis ne didesnis kaip 20 m, ilgio, pločio ir grimzlės sandauga mažiau kaip 100 m³."
  },
  "t11_39": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Plūduriuojančioji priemonė – nesavaeigis statinys ant vandens (plg. t11_5)."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str.: „Plūduriuojančioji priemonė – nesavaeigis ... bet kokios paskirties statinys ant vandens ...“"
  },
  "t11_41": {
   "answer": 0,
@@ -507,18 +507,18 @@
  },
  "t11_43": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pažodinis apibrėžimas: laivybai vidaus vandenyse naudojama priemonė, neskirta laisvalaikiui ir sportui."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str. 1 d.: „Vidaus vandenų laivas – savaeigė ar nesavaeigė ... kuri nėra skirta laisvalaikiui ir sportui.“"
  },
  "t11_45": {
   "answer": 1,
   "confidence": "high",
-  "note": "Vidaus vandenų kelius valdo Susisiekimo ministerija arba jos įgaliota institucija."
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.): keliai skirstomi į valstybinės ir vietinės reikšmės; juos valdo, tvarko ir prižiūri vidaus vandenų kelių valdytojas pagal susisiekimo ministro tvirtinamas taisykles. Artimiausias variantas – Susisiekimo ministerija arba jos įgaliota institucija."
  },
  "t11_46": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pažodinis kodekso žvejybos laivo apibrėžimas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 15 str. 2 d.: „Žvejybos laivas – vidaus vandenų laivas, kuriame yra verslinės žvejybos įranga ...“"
  },
  "t11_47": {
   "answer": 1,
@@ -527,8 +527,8 @@
  },
  "t11_48": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Greitaeigis laivas – didesnio kaip 40 km/h greičio (CEVNI atitikmuo)."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), Greitaeigiai laivai – motoriniai vidaus vandenų laivai, galintys plaukti didesniu kaip 40 km/h greičiu."
  },
  "t11_49": {
   "answer": 0,
@@ -542,13 +542,13 @@
  },
  "t9_1": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Pripučiamą plaustą kasmet tikrina aprobuota techninės priežiūros bazė; įgula savaitinės patikros neatlieka."
+  "confidence": "verified",
+  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: pripučiamas gelbėjimo plaustas tikrinamas technikos priežiūros bazėse kas 1 metus."
  },
  "t9_2": {
-  "answer": 2,
-  "confidence": "medium",
-  "note": "Pripučiamai liemenei taikoma ir kas mėnesį įgulos apžiūra, ir kasmetinė patikra bazėje."
+  "answer": 1,
+  "confidence": "high",
+  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: pripučiamos gelbėjimo liemenės tikrinamos technikos priežiūros bazėse kas 1 metus; įgulos mėnesinės patikros lentelėje nenumatyta."
  },
  "t9_3": {
   "answer": 1,
@@ -583,7 +583,7 @@
  "t9_9": {
   "answer": 0,
   "confidence": "medium",
-  "note": "Kasmetinė patikra ir hidraulinis bandymas kas 10 metų."
+  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: rankiniai gesintuvai bazėje kasmet (užpildymas); 1998 m. lentelėje slėgio bandymas – kas 5 m. Dabartinių taisyklių 10 m. terminas šiuo dokumentu nepatikrintas."
  },
  "t9_10": {
   "answer": 1,
@@ -707,8 +707,8 @@
  },
  "t9_36": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Šviečiančios ir dūmus leidžiančios bujelės patikra aprobuotoje bazėje – kartą per 3 metus."
+  "confidence": "high",
+  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: šviečiančios bujos tikrinamos technikos priežiūros bazėse kas 3 metus (šviečiančios dūmų bujos – kas 6). Tik 2 variantas numato bazės patikrą."
  },
  "t9_37": {
   "answer": 0,
