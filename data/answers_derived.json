@@ -108,42 +108,42 @@
  "t15_1": {
   "answer": 0,
   "confidence": "verified",
-  "note": "ANK 406 str. 1 d.: „... užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.“"
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 1 d.: „... užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.“"
  },
  "t15_2": {
   "answer": 1,
   "confidence": "verified",
-  "note": "ANK 406 str. 2 d.: „... užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.“"
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 2 d.: „... užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.“"
  },
  "t15_3": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "ANK 406 str. 3 d.: bauda nuo 140 iki 300 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 3 d.: „... užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.“"
  },
  "t15_4": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "ANK 406 str. 4 d.: asmenims 140–300 eurų, juridinių asmenų vadovams 300–560 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 4 d.: asmenims nuo 140 iki 300 eurų, juridinių asmenų vadovams – nuo 300 iki 560 eurų."
  },
  "t15_5": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "ANK 406 str. 5 d.: bauda nuo 300 iki 860 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 5 d.: „... užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.“"
  },
  "t15_6": {
   "answer": 0,
-  "confidence": "high",
-  "note": "ANK 406 str.: kitų saugumo reikalavimų pažeidimas – 90–140 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 6 d.: „... užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.“"
  },
  "t15_7": {
   "answer": 1,
-  "confidence": "low",
-  "note": "ANK 435 str. 7 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 7 d.: laivavedžiams nuo 850 iki 1200 eurų, neturintiems teisės vairuoti – nuo 1150 iki 1450 eurų."
  },
  "t15_8": {
   "answer": 2,
-  "confidence": "high",
-  "note": "ANK 406 str.: „... asmenims ... atėmimas nuo vienų iki trejų metų ir juridinių asmenų vadovams ... – nuo dvejų iki trejų metų.“ (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
+  "confidence": "verified",
+  "note": "Administracinių nusižengimų kodeksas, 406 str. 8 d.: už 4 d. pažeidimą asmenims 1–3 metai, vadovams 2–3 metai; už 5 ir 7 d. – 2–3 metai."
  },
  "t13_1": {
   "answer": 0,

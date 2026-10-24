@@ -51,5 +51,47 @@
         "text": "Rajonas, kuris apima teritorinę jūrą"
       }
     }
+  },
+  "t15_7": {
+    "options": {
+      "2": {
+        "text": "užtraukia baudą laivavedžiams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio eurų ir teisės vairuoti vidaus vandenų transporto priemones neturintiems asmenims – nuo vieno tūkstančio vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų."
+      }
+    }
+  },
+  "t15_8": {
+    "options": {
+      "2": {
+        "text": "teisės vairuoti vidaus vandenų transporto priemones atėmimas nuo vienų iki trejų metų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – teisės vairuoti vidaus vandenų transporto priemones atėmimas nuo dvejų iki trejų metų. Už šio straipsnio 5, 7 dalyse numatytus administracinius nusižengimus asmenims gali būti skiriamas teisės vairuoti vidaus vandenų transporto priemones atėmimas nuo dvejų iki trejų metų."
+      }
+    },
+    "insertAfter": [
+      {
+        "id": "t15_8_1",
+        "topic": 15,
+        "number": 8,
+        "text": "Vidaus vandenų transporto priemonių registravimo reikalavimų arba vidaus vandenų transporto priemonių pristatymo techninei apžiūrai atlikti tvarkos pažeidimas, turinčių gedimų, dėl kurių uždrausta šias transporto priemones eksploatuoti, arba perdirbtų be reikiamo leidimo, arba nustatyta tvarka neįregistruotų, arba be techninės apžiūros, arba neparengtų žmonėms ir kroviniams plukdyti vidaus vandenų transporto priemonių vairavimas ar jų išleidimas plaukioti užtraukia baudą asmenims nuo",
+        "images": [],
+        "options": [
+          {
+            "text": "vieno šimto dvidešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.",
+            "images": []
+          },
+          {
+            "text": "vieno šimto iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.",
+            "images": []
+          },
+          {
+            "text": "vieno šimto dvidešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto iki trijų šimtų eurų.",
+            "images": []
+          }
+        ],
+        "answer": 0,
+        "answerSource": "derived",
+        "confidence": "verified",
+        "reference": "ANK 410 str. 1 d.",
+        "note": "ANK (suvestinė redakcija), 410 str. 1 d.: „... užtraukia baudą asmenims nuo vieno šimto dvidešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.“"
+      }
+    ]
   }
 }

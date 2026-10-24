@@ -29,6 +29,9 @@ WS_RE = re.compile(r'[ \t ]+')
 def clean(text):
     text = WS_RE.sub(' ', text.replace(' ', ' ')).strip()
     text = re.sub(r'\s+([,.;:])', r'\1', text)
+    # Words glued across a line break in the source ("asmeniuiužtraukia").
+    text = re.sub(r'(?<=[a-ząčęėįšųūž])(?=užtraukia\b)', ' ', text)
+    text = re.sub(r'\s*Top of Form\s*$', '', text)
     return strip_tail(text.strip(' ;'))
 
 
