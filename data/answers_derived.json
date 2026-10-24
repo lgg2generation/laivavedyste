@@ -278,7 +278,7 @@
  "t14_6": {
   "answer": 0,
   "confidence": "medium",
-  "note": "Jūrų uostų akvatorijose tiria uostų kapitonai, dalyvaujant įgaliotam Administracijos pareigūnui."
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 20.2 p.: incidentus jūrų uostų akvatorijose tiria uostų kapitonai ir išvadas teikia Administracijai; kas dalyvauja, nenurodyta."
  },
  "t14_7": {
   "answer": 0,
@@ -297,13 +297,13 @@
  },
  "t14_10": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Pranešama laivo savininkui (valdytojui) ir Transporto saugos administracijai."
+  "confidence": "high",
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 10 p.: kapitonas pirminę informaciją nedelsdamas pateikia Administracijai ir laivo savininkui (valdytojui); dabar Administracijos funkcijas atlieka Transporto saugos administracija."
  },
  "t14_11": {
   "answer": 0,
   "confidence": "high",
-  "note": "Užsienio valstybėje – Lietuvos Respublikos diplomatinei (konsulinei) įstaigai."
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 10 p.: avarijai įvykus užsienio valstybės vandenyse ar uoste, informacija papildomai pateikiama LR diplomatinei (konsulinei) įstaigai šioje valstybėje."
  },
  "t14_12": {
   "answer": 0,
@@ -352,23 +352,23 @@
  },
  "t14_21": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Labai sunki avarija – ir laivo žūtis, ir dingimas ar nebeatstatomas konstrukcijų suirimas."
+  "confidence": "high",
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 7.1 p.: labai svarbi avarija – laivas nuskendo (žuvo), žuvo ar sunkiai sužalotas žmogus, didelis užteršimas. Abu variantai atitinka laivo žūtį / praradimą."
  },
  "t14_22": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Sunki avarija apima ir gaisrą/susidūrimą, ir navigacines savybes atimančius struktūrinius apgadinimus."
+  "confidence": "high",
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 7.2.1–7.2.2 p.: svarbi avarija – gaisras, sprogimas, susidūrimas, dėl kurių prarandamos jūrinės savybės, ir korpuso, variklio gedimai, dėl kurių prarandamos jūrinės savybės."
  },
  "t14_23": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Sunki avarija – ir aplinkos užteršimas, ir būtinybė vilkti laivą ar pagalba iš kranto."
+  "confidence": "high",
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 7.2.3–7.2.4 p.: svarbi avarija – gedimas, dėl kurio reikalingas vilkimas ar pagalba iš kranto, ir matomas užteršimas nepriklausomai nuo teršalų kiekio."
  },
  "t14_24": {
   "answer": 2,
-  "confidence": "medium",
-  "note": "Tyrimo išlaidas padengia laivo savininkas."
+  "confidence": "high",
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 24 p.: „Visas laivo avarijos tyrimo išlaidas dengia avariją patyrusio laivo valdytojas (savininkas).“"
  },
  "t14_25": {
   "answer": 1,
@@ -378,7 +378,7 @@
  "t14_26": {
   "answer": 1,
   "confidence": "high",
-  "note": "Sunkus sužeidimas – hospitalizacija daugiau nei 72 valandas per septynias dienas nuo sužeidimo (IMO apibrėžimas)."
+  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 5.10 p.: sunkus sužalojimas – kai per septynias paras nuo avarijos žmogus nedarbingas 72 valandas."
  },
  "t14_27": {
   "answer": 2,
