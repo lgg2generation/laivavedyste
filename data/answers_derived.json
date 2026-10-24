@@ -1066,9 +1066,9 @@
   "note": "Žemyn nukreiptas trikampis – ribotas aukštis virš vandens (plg. t8_24)."
  },
  "t8_4": {
-  "answer": 1,
-  "confidence": "medium",
-  "note": "Raudonas rėmas be simbolio – draudžiamasis ženklas: toliau plaukti negalima (plg. žalią t8_6)."
+  "answer": 2,
+  "confidence": "verified",
+  "note": "Tuščias raudonas rėmas be simbolio – bendrasis apribojimų ženklas. „Plaukti draudžiama“ žymi raudona-balta-raudona juostos (t8_56), o „leidžiama“ – žalia-balta-žalia (t8_6)."
  },
  "t8_5": {
   "answer": 2,

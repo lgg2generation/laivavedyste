@@ -269,7 +269,9 @@ private fun Explanation(question: Question) {
 
 @Composable
 fun DerivedNotice(question: Question) {
+    val verified = question.confidence == "verified"
     val tint = when (question.confidence) {
+        "verified" -> StatusGreen.copy(alpha = 0.14f)
         "high" -> MaterialTheme.colorScheme.surfaceVariant
         "medium" -> MaterialTheme.colorScheme.tertiary.copy(alpha = 0.14f)
         else -> MaterialTheme.colorScheme.error.copy(alpha = 0.12f)
@@ -282,6 +284,7 @@ fun DerivedNotice(question: Question) {
         Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
             Text(
                 when (question.confidence) {
+                    "verified" -> "Atsakymas patikrintas"
                     "high" -> "Atsakymas atkurtas (patikimumas: aukštas)"
                     "medium" -> "Atsakymas atkurtas (patikimumas: vidutinis)"
                     else -> "Atsakymas atkurtas (patikimumas: žemas – pasitikrinkite)"
@@ -290,7 +293,10 @@ fun DerivedNotice(question: Question) {
                 fontWeight = FontWeight.SemiBold,
             )
             Text(
-                "Šios temos dokumente teisingas atsakymas nebuvo pažymėtas.",
+                if (verified)
+                    "Šios temos dokumente atsakymas nebuvo pažymėtas, bet šis patikrintas pagal oficialų testą."
+                else
+                    "Šios temos dokumente teisingas atsakymas nebuvo pažymėtas.",
                 style = MaterialTheme.typography.bodyMedium,
             )
             if (question.note != null) {
