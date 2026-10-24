@@ -288,7 +288,7 @@
  "t14_8": {
   "answer": 0,
   "confidence": "high",
-  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 16.3 p.: įvykusius teritorinėje jūroje tiria Lietuvos saugios laivybos administracija, dalyvaujant įgaliotam Inspekcijos pareigūnui. Saugios laivybos administracija dabar – Transporto saugos administracija, todėl teisingas 1-as variantas; variantas su Inspekcija sukeičia institucijas."
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 16.3 p.: įvykusius teritorinėje jūroje tiria Lietuvos saugios laivybos administracija, dalyvaujant įgaliotam Inspekcijos pareigūnui. Saugios laivybos administracija dabar – Transporto saugos administracija, todėl teisingas variantas „Lietuvos transporto saugos administracija, dalyvaujant įgaliotam Inspekcijos pareigūnui“; variantas su Inspekcija sukeičia institucijas."
  },
  "t14_9": {
   "answer": 0,
@@ -487,8 +487,8 @@
  },
  "t11_35": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.) dabar apibrėžia: „sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti“. Nė vienas variantas to pažodžiui neatitinka; pasirinktas senesnės redakcijos apibrėžimas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (pradinė 1996 m. redakcija), 2 str. 1 d.: „Vidaus vandenų transportas – ūkinės veiklos sritis, kuri apima keleivių, krovinių, bagažo, pašto vežimą, buksyravimą vidaus vandenų keliais.“ Teisingas variantas – vėlesnės redakcijos išplėstas šis apibrėžimas."
  },
  "t11_37": {
   "answer": 1,
@@ -512,8 +512,8 @@
  },
  "t11_45": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.): keliai skirstomi į valstybinės ir vietinės reikšmės; juos valdo, tvarko ir prižiūri vidaus vandenų kelių valdytojas pagal susisiekimo ministro tvirtinamas taisykles. Artimiausias variantas – Susisiekimo ministerija arba jos įgaliota institucija."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (pradinė 1996 m. redakcija), 4 str. 3 d.: „Lietuvos Respublikos vidaus vandenų kelius valdo, prižiūri ir tvarko Susisiekimo ministerija arba jos įgaliota institucija.“"
  },
  "t11_46": {
   "answer": 0,
@@ -1327,7 +1327,7 @@
  },
  "t2_19": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Šio klausimo šaltinio dokumente autorius nepabraukė nė vieno atsakymo. Pilniausias apibrėžimas – juosta tam tikrų gabaritų laivams, pažymėta navigacijos ženklais arba locmano žemėlapiuose."
+  "confidence": "verified",
+  "note": "Vidaus vandenų transporto kodeksas (pradinė 1996 m. redakcija), 24 str.: „Plaukiojimo vaga (farvateris) – vidaus vandenų kelio juosta, tinkanti plaukti tam tikros grimzlės laivams“, pažymėta navigacijos ženklais arba nurodyta locmano žemėlapiuose."
  }
 }
