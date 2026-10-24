@@ -152,8 +152,8 @@
  },
  "t13_2": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Užterštų vandenų atidavimas į specialius laivus-surinkėjus yra privalomas, o ne draudžiamas, todėl „abu“ netinka."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 86.3 p.: laivo korpuso, denių dažymo, plovimo darbus atlikti tik suderinus su Klaipėdos regiono aplinkos apsaugos departamento Jūros aplinkos apsaugos agentūra."
  },
  "t13_3": {
   "answer": 0,
@@ -162,13 +162,13 @@
  },
  "t13_4": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Kranto inžineriniai tinklai priklauso uosto žemės naudotojui – jo leidimas ir reikalingas."
+  "confidence": "high",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 25 p.: naudotis kranto inžineriniais tinklais galima tik leidus šių tinklų savininkui (krantinėje – uosto žemės naudotojas) ir kapitonui pateikus prašymą."
  },
  "t13_5": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Už saugų stovėjimą prie krantinės atsako laivo kapitonas kartu su uosto žemės naudotoju."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 28 p.: „Už saugų laivų stovėjimą prie krantinių atsako laivo kapitonas ir uosto žemės naudotojas ...“"
  },
  "t13_6": {
   "answer": 1,
@@ -217,8 +217,8 @@
  },
  "t13_15": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Pirmiausia pranešama budinčiam Uosto dispečerinės darbuotojui."
+  "confidence": "high",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 76 p.: apie įvykius akvatorijoje informuojamas UPT budintis uosto dispečeris-koordinatorius."
  },
  "t13_16": {
   "answer": 2,
@@ -232,13 +232,13 @@
  },
  "t13_18": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Vožtuvai laikomi uždaryti ir užplombuoti."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 86.4 p.: laikyti užplombuotus nutekamųjų fekalinių, ūkinių-buitinių vandenų išleidimo vožtuvus."
  },
  "t13_19": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Špigatai uždaromi, po jungtimis dedami padėklai."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 86.1 p.: denio špigatus uždaryti, o po žarnų sujungimais ir tankų oro atvamzdžiais padėti padėklus."
  },
  "t13_20": {
   "answer": 2,
@@ -558,7 +558,7 @@
  "t9_4": {
   "answer": 1,
   "confidence": "high",
-  "note": "Prie gelbėjimo rato tvirtinamas 30 m plūduriuojantis lynas (plg. t9_34, t9_35)."
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 26 p.: prie krantinių kabinami gelbėjimo ratai su ne trumpesne kaip 30 m ilgio virve."
  },
  "t9_5": {
   "answer": 0,
@@ -622,8 +622,8 @@
  },
  "t9_17": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Draudžiama bunkeruoti per kito laivo korpusą; iš nesavaeigio laivo su vilkiku šalia – leidžiama."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 118.4 p.: draudžiama tiekti kurą iš laivo į laivą per kito laivo korpusą. 118.3 p. draudžia tiekti iš nesavaeigio laivo, jeigu šalia jo NĖRA vilkiko, tad 2 variantas („yra vilkikas“) neteisingas."
  },
  "t9_18": {
   "answer": 1,
@@ -738,12 +738,12 @@
  "t9_42": {
   "answer": 0,
   "confidence": "medium",
-  "note": "Iš mobilių kranto transporto priemonių bunkeruoti draudžiama, kai laive yra keleivių."
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70) (2014 m. redakcija), 116 p. išvardija kitus draudimus (neparuoštas laivas, neveikia gesinimo sistema, atvira ugnis ir kt.); nei keleiviai, nei vilkikas nebeminimi – klausimas greičiausiai iš senesnės redakcijos."
  },
  "t9_43": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Tas pats kaip t9_17 – draudžiama bunkeruoti per kito laivo korpusą."
+  "confidence": "verified",
+  "note": "Klaipėdos valstybinio jūrų uosto naudojimo taisyklės (SM 2014-02-17 Nr. 3-70), 118.4 p.: draudžiama tiekti kurą per kito laivo korpusą; 118.3 p. – iš nesavaeigio laivo, jeigu šalia jo NĖRA vilkiko (2 variante parašyta „yra“)."
  },
  "t9_44": {
   "answer": 0,
