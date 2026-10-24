@@ -2,23 +2,23 @@
  "_comment": "Answers for topics 8-15. The source .doc files for these topics ship without an answer key (verified with two independent readers: no underline, no other distinguishing formatting). These were derived by Claude from the subject matter and from cross-references inside each topic. confidence: high = cross-checked against another question in the same bank or against a regulation; medium = follows clearly from the subject matter; low = plausible but the exact figure could not be verified offline. verified = checked against the official text (e.g. the Europos vidaus vandenų kelių laivybos taisyklės (EVVKLT/CEVNI) annexes 7 and 8) or confirmed by the user.",
  "t10_1": {
   "answer": 0,
-  "confidence": "high",
-  "note": "10 kanalas = uosto dispečerinė, šaukinys „Klaipėda radio-12“ (plg. t10_13, t10_14)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 10 kanalu kviečiamas Klaipėdos uosto dispečeris – „Klaipėda radio-12“."
  },
  "t10_2": {
   "answer": 0,
-  "confidence": "high",
-  "note": "9 kanalas = laivų eismo tarnyba, šaukinys „Klaipėda radio-5“ (plg. t10_12, t10_15)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 9 kanalu – Klaipėdos laivų eismo tarnyba (LET), „Klaipėda radio-5“."
  },
  "t10_3": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Draudžiama užimti tarnybinius 9, 10, 16, 71, 72 kanalus."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Draudžiama vesti asmeninius pokalbius šiais kanalais: 9, 10, 16, 71, 72 (+73)“."
  },
  "t10_4": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Uosto dispečerinė – 10 kanalu (plg. t10_13)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 10 kanalu kviečiamas Klaipėdos uosto dispečeris."
  },
  "t10_5": {
   "answer": 0,
@@ -27,63 +27,63 @@
  },
  "t10_6": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Laivų eismo tarnyba – 9 kanalu (plg. t10_12)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 9 kanalu – Klaipėdos laivų eismo tarnyba (LET)."
  },
  "t10_7": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pasienio postas „Kopgalis“ – 73 kanalu (plg. t10_10)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 73 kanalu – pasienio kontrolės postas „Kopgalis“."
  },
  "t10_8": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Koordinacinis gelbėjimo centras – 16 kanalu (plg. t10_11)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 16 kanalu – koordinacinis gelbėjimo centras (KGC), tarptautinis budėjimo kanalas."
  },
  "t10_9": {
   "answer": 1,
-  "confidence": "high",
-  "note": "„Impulsas-3“ – pasienio kontrolės postas „Kopgalis“ (plg. t10_16)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: pasienio kontrolės postas „Kopgalis“ – „Impulsas-3“."
  },
  "t10_10": {
   "answer": 0,
-  "confidence": "high",
-  "note": "73 kanalas – „Kopgalis“ (plg. t10_7)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 73 kanalu – pasienio kontrolės postas „Kopgalis“."
  },
  "t10_11": {
   "answer": 1,
-  "confidence": "high",
-  "note": "16 kanalas – koordinacinis gelbėjimo centras (plg. t10_8)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 16 kanalu – koordinacinis gelbėjimo centras (KGC)."
  },
  "t10_12": {
   "answer": 0,
-  "confidence": "high",
-  "note": "9 kanalas – laivų eismo tarnyba (plg. t10_6)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 9 kanalu – Klaipėdos laivų eismo tarnyba (LET)."
  },
  "t10_13": {
   "answer": 1,
-  "confidence": "high",
-  "note": "10 kanalas – uosto dispečeris (plg. t10_4)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 10 kanalu – uosto priežiūros skyrius („Klaipėda radio-32“) ir uosto dispečeris („Klaipėda radio-12“)."
  },
  "t10_14": {
   "answer": 0,
-  "confidence": "high",
-  "note": "„Klaipėda radio-12“ – dešimtas kanalas (plg. t10_1)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Klaipėda radio-12“ – uosto dispečeris 10 kanalu."
  },
  "t10_15": {
   "answer": 0,
-  "confidence": "high",
-  "note": "„Klaipėda radio-5“ – devintas kanalas (plg. t10_2)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Klaipėda radio-5“ – laivų eismo tarnyba 9 kanalu."
  },
  "t10_16": {
   "answer": 1,
-  "confidence": "high",
-  "note": "„Impulsas-3“ – „Kopgalis“ (plg. t10_9)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Impulsas-3“ – pasienio kontrolės postas „Kopgalis“, 73 kanalas."
  },
  "t10_17": {
   "answer": 0,
-  "confidence": "high",
-  "note": "„Klaipėda radio-32“ – uosto priežiūros tarnyba (plg. t10_20)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Klaipėda radio-32“ – Klaipėdos uosto priežiūros skyrius, 10 kanalas."
  },
  "t10_18": {
   "answer": 0,
@@ -92,18 +92,18 @@
  },
  "t10_19": {
   "answer": 0,
-  "confidence": "high",
-  "note": "MAYDAY – nelaimės signalas; PAN PAN – skubos, SECURITE – įspėjimo."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 16 kanalu nelaimės signalas – MAYDAY (PAN PAN – grėsmė laivui ir žmonėms, SECURITE – navigaciniai, meteo pranešimai)."
  },
  "t10_20": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Uosto priežiūros skyrius – „Klaipėda radio-32“ (plg. t10_17)."
+  "confidence": "verified",
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: „Klaipėda radio-32“ – Klaipėdos uosto priežiūros skyrius."
  },
  "t10_21": {
   "answer": 0,
   "confidence": "medium",
-  "note": "Orų prognozę skelbia laivų eismo tarnyba 9 kanalu („Klaipėda radio-5“) – vienintelis kanalo ir šaukinio derinys, atitinkantis t10_2."
+  "note": "Kursų medžiaga „UTB radijo ryšio kanalų paskirtis“: 9 kanalu – LET „Klaipėda radio-5“; 16 kanalu SECURITE – navigaciniai ir meteo pranešimai. Kas teikia oro prognozę išplaukiant, medžiagoje nenurodyta."
  },
  "t15_1": {
   "answer": 0,
@@ -437,8 +437,8 @@
  },
  "t11_18": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Nepertraukiamas (ištisinis) signalas – ne trumpiau kaip 30 s."
+  "confidence": "verified",
+  "note": "Kursų medžiaga (garsinių signalų schema): nelaimės signalas – ištisinis garsas, trunkantis daugiau kaip 30 s."
  },
  "t11_19": {
   "answer": 2,
