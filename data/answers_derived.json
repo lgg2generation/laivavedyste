@@ -546,9 +546,9 @@
   "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: pripučiamas gelbėjimo plaustas tikrinamas technikos priežiūros bazėse kas 1 metus."
  },
  "t9_2": {
-  "answer": 1,
+  "answer": 2,
   "confidence": "high",
-  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: pripučiamos gelbėjimo liemenės tikrinamos technikos priežiūros bazėse kas 1 metus; įgulos mėnesinės patikros lentelėje nenumatyta."
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 79 p.: gelbėjimo priemonės laive apžiūrimos ir tikrinamos kiekvieną mėnesį (įgula); SM 1998 Nr. 366 lentelė: pripučiamos liemenės techninės priežiūros bazėje – kas 1 metus. Taigi teisingi abu."
  },
  "t9_3": {
   "answer": 1,
@@ -582,8 +582,8 @@
  },
  "t9_9": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "SM 1998-09-24 įsakymas Nr. 366, tikrinimo terminų lentelė: rankiniai gesintuvai bazėje kasmet (užpildymas); 1998 m. lentelėje slėgio bandymas – kas 5 m. Dabartinių taisyklių 10 m. terminas šiuo dokumentu nepatikrintas."
+  "confidence": "verified",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 62–63 p.: gesintuvai tikrinami įgulos kas mėnesį, techninės priežiūros bazėse – kartą per metus; kartą per 10 metų atliekamas hidraulinis bandymas."
  },
  "t9_10": {
   "answer": 1,
@@ -602,8 +602,8 @@
  },
  "t9_13": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Buitiniuose suskystintųjų dujų įrenginiuose – patvirtintos 5–35 kg talpyklos."
+  "confidence": "verified",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 69.5 p.: „Leidžiama naudoti tik patvirtintas 5–35 kg talpos talpyklas.“"
  },
  "t9_14": {
   "answer": 0,
@@ -643,7 +643,7 @@
  "t9_21": {
   "answer": 0,
   "confidence": "medium",
-  "note": "Iki 6 m laivams – ne mažiau kaip 2 kg milteliniai, tinkami A, B, C ir elektros iki 1000 V gaisrams."
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 61 p. (2008 m. red.) pramoginiams laivams nurodo ne mažesnius kaip 6 kg miltelinius gesintuvus, tinkamus A, B, C gaisrams ir iki 1000 V elektros sistemoms. Variantų formuluotė su „iki 1000 V“ atitinka taisyklių tekstą; 2 kg laivams iki 6 m – iš naujesnės redakcijos, nepatikrinta."
  },
  "t9_24": {
   "answer": 0,
@@ -692,18 +692,18 @@
  },
  "t9_33": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "30 m plūduriuojantis lynas su kilpa ir gelbėjimosi liemenė kiekvienam esančiam žmogui."
+  "confidence": "high",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 77 p.: pripučiami laivai aprūpinami plūduriuojančiu lynu su kilpa be gelbėjimo rato (2008 m. – 27,5 m; naujesnėje redakcijoje, iš kurios klausimas, – 30 m), o 75.1 p. visi laive esantys privalo vilkėti gelbėjimosi liemenes."
  },
  "t9_34": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Iki 6 m – vienas gelbėjimo ratas su 30 m lynu ir savaime užsidegančiu žiburiu."
+  "confidence": "high",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 73.2 p. (laivai iki 6 m): gelbėjimo ratai su plūduriuojančiais lynais, vienas – su signaliniu plūduru su savaime užsidegančiu žiburiu. EPIRB nereikalaujamas. (2008 m. redakcijoje lynas 27,5 m, klausimas – iš naujesnės, kur 30 m.)"
  },
  "t9_35": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Virš 6 m – ne mažiau kaip du gelbėjimo ratai su 30 m lynais (plg. t9_34)."
+  "confidence": "high",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 72.2 p. (laivai virš 6 m): gelbėjimo ratai su plūduriuojančiais lynais, vienas – su signaliniu plūduru su savaime užsidegančiu žiburiu. EPIRB nereikalaujamas."
  },
  "t9_36": {
   "answer": 1,
@@ -712,13 +712,13 @@
  },
  "t9_37": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Plastiko ir stiklo pluošto laivai privalo turėti radiolokacinį atšvaitą."
+  "confidence": "verified",
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 72.10 p.: iš plastiko ir stiklo pluošto pastatyti laivai privalo turėti radiolokacinį atšvaitą."
  },
  "t9_38": {
-  "answer": 2,
+  "answer": 0,
   "confidence": "high",
-  "note": "Ant gelbėjimo rato rašomas laivo pavadinimas ir registracijos uostas."
+  "note": "Mažųjų laivų (iki 10 m), pramoginių, sportinių ir asmeninių laivų techninių apžiūrų taisyklės (VVVLI 2008-02-20 Nr. 4-26), 72.2 ir 73.2 p.: „Ant kiekvieno gelbėjimo rato turi būti užrašytas Laivo registro (identifikavimo) kodas.“ (Laivo pavadinimas ir registracijos uostas – SOLAS reikalavimas jūrų laivams.)"
  },
  "t9_39": {
   "answer": 0,
