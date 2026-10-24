@@ -107,33 +107,33 @@
  },
  "t15_1": {
   "answer": 0,
-  "confidence": "low",
-  "note": "ANK 435 str. 1 d. Tikslios sumos neradau neprisijungęs – vertėtų pasitikrinti kodekse."
+  "confidence": "verified",
+  "note": "ANK 406 str. 1 d.: „... užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.“"
  },
  "t15_2": {
   "answer": 1,
-  "confidence": "low",
-  "note": "ANK 435 str. 2 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+  "confidence": "verified",
+  "note": "ANK 406 str. 2 d.: „... užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.“"
  },
  "t15_3": {
-  "answer": 0,
-  "confidence": "low",
-  "note": "ANK 435 str. 3 d.; 2 variantas („trijų dviejų eurų“) su korektūros klaida, 3 variantas keičia apatinę ribą."
+  "answer": 2,
+  "confidence": "medium",
+  "note": "ANK 406 str. 3 d.: bauda nuo 140 iki 300 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
  },
  "t15_4": {
-  "answer": 0,
-  "confidence": "low",
-  "note": "ANK 435 str. 4 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+  "answer": 2,
+  "confidence": "medium",
+  "note": "ANK 406 str. 4 d.: asmenims 140–300 eurų, juridinių asmenų vadovams 300–560 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
  },
  "t15_5": {
   "answer": 1,
   "confidence": "medium",
-  "note": "„Nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų“ – tokia pat formuluotė kaip ANK 422 str. dėl neblaivumo."
+  "note": "ANK 406 str. 5 d.: bauda nuo 300 iki 860 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
  },
  "t15_6": {
   "answer": 0,
-  "confidence": "low",
-  "note": "ANK 435 str. 6 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+  "confidence": "high",
+  "note": "ANK 406 str.: kitų saugumo reikalavimų pažeidimas – 90–140 eurų (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
  },
  "t15_7": {
   "answer": 1,
@@ -141,9 +141,9 @@
   "note": "ANK 435 str. 7 d. Suma nepatvirtinta – pasitikrinkite kodekse."
  },
  "t15_8": {
-  "answer": 0,
-  "confidence": "low",
-  "note": "ANK 435 str. 8 d. Suma nepatvirtinta – pasitikrinkite kodekse."
+  "answer": 2,
+  "confidence": "high",
+  "note": "ANK 406 str.: „... asmenims ... atėmimas nuo vienų iki trejų metų ir juridinių asmenų vadovams ... – nuo dvejų iki trejų metų.“ (paieškos ištrauka; oficialiu e-tar tekstu nepatikrinta)."
  },
  "t13_1": {
   "answer": 0,
@@ -636,9 +636,9 @@
   "note": "Ženkle „P“ (powder) – nešiojamasis miltelinis gesintuvas."
  },
  "t9_20": {
-  "answer": 2,
-  "confidence": "low",
-  "note": "Atvira ugnis draudžiama arčiau kaip 50 m; tikslų atstumą verta pasitikrinti uosto taisyklėse."
+  "answer": 0,
+  "confidence": "high",
+  "note": "Klaipėdos valstybinio jūrų uosto laivybos taisyklės (78.6 p.; 1998 m. redakcijoje 4.2.15 p.): draudžiama naudoti atvirą ugnį laivuose, stovinčiuose arčiau kaip 100 m nuo laivų, vykdančių operacijas su degiomis medžiagomis."
  },
  "t9_21": {
   "answer": 0,
