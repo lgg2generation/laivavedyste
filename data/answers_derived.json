@@ -252,13 +252,13 @@
  },
  "t14_1": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Laivo avarija – kai savybėms atstatyti reikia daugiau kaip 72 valandų; vien susidūrimo faktas dar nėra avarija."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 7.1 p.: laivo avarija – laivas sugadinamas taip, kad jo savybėms atstatyti reikia daugiau kaip 72 valandų."
  },
  "t14_2": {
   "answer": 2,
   "confidence": "high",
-  "note": "Ir kranto statinio, ir navigacinių ženklų sugadinimas, kai atstatyti reikia >72 val., yra avarija."
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 7.2 ir 7.5 p. kranto įrenginių sugadinimą (>72 val.) ir teršalų išsiliejimą priskiria avarijoms, o navigacinių ženklų sugadinimą 8.4 p. – avariniams atvejams. Klausimo variantas su „daugiau kaip 72 valandų“ rodo vėlesnę redakciją, kurioje ir tai – avarija."
  },
  "t14_3": {
   "answer": 0,
@@ -268,17 +268,17 @@
  "t14_4": {
   "answer": 2,
   "confidence": "high",
-  "note": "Ir žmonių žūtis, ir visiškas laivo sudužimas klasifikuojami kaip avarija."
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 6–7 p.: visiškas sudužimas – „laivo žūtis“, žmonių žūtis – „laivo avarija“; vėlesnėje redakcijoje abu priskirti avarijoms."
  },
  "t14_5": {
   "answer": 2,
   "confidence": "high",
-  "note": "Ir teršalų išsiliejimas, ir navigacinių ženklų sugadinimas >72 val. yra avarija."
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 7.2 ir 7.5 p. kranto įrenginių sugadinimą (>72 val.) ir teršalų išsiliejimą priskiria avarijoms, o navigacinių ženklų sugadinimą 8.4 p. – avariniams atvejams. Klausimo variantas su „daugiau kaip 72 valandų“ rodo vėlesnę redakciją, kurioje ir tai – avarija."
  },
  "t14_6": {
   "answer": 0,
-  "confidence": "medium",
-  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 20.2 p.: incidentus jūrų uostų akvatorijose tiria uostų kapitonai ir išvadas teikia Administracijai; kas dalyvauja, nenurodyta."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 16.2 p.: įvykusius jūrų uostų akvatorijose tiria uostų kapitonai, dalyvaujant įgaliotam pareigūnui. Klausimų bankas – iš vėlesnės redakcijos, kurioje Inspekcijos ir Saugios laivybos administracijos funkcijas perėmė Transporto saugos administracija."
  },
  "t14_7": {
   "answer": 0,
@@ -286,9 +286,9 @@
   "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 27 str. 6 d.: „Vidaus vandenų transporto priemonių avarijas tiria Transporto saugos administracija.“ Valstybinė vidaus vandenų laivybos inspekcija nebeegzistuoja."
  },
  "t14_8": {
-  "answer": 2,
-  "confidence": "low",
-  "note": "Vidaus vandenų transporto kodeksas (2024-05-01 red.), 27 str. 4 ir 6 d.: avarijas, įvykusias ir teritorinėje jūroje, tiria Transporto saugos administracija, todėl variantas su Inspekcija greičiausiai pasenęs; kuris iš dviejų LTSA variantų teisingas, kodeksas nenurodo."
+  "answer": 0,
+  "confidence": "high",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 16.3 p.: įvykusius teritorinėje jūroje tiria Lietuvos saugios laivybos administracija, dalyvaujant įgaliotam Inspekcijos pareigūnui. Saugios laivybos administracija dabar – Transporto saugos administracija, todėl teisingas 1-as variantas; variantas su Inspekcija sukeičia institucijas."
  },
  "t14_9": {
   "answer": 0,
@@ -297,18 +297,18 @@
  },
  "t14_10": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 10 p.: kapitonas pirminę informaciją nedelsdamas pateikia Administracijai ir laivo savininkui (valdytojui); dabar Administracijos funkcijas atlieka Transporto saugos administracija."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 10 p.: kapitonas nedelsiant praneša laivo savininkui (valdytojui) ir priežiūros institucijai (dabar – Transporto saugos administracija)."
  },
  "t14_11": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 10 p.: avarijai įvykus užsienio valstybės vandenyse ar uoste, informacija papildomai pateikiama LR diplomatinei (konsulinei) įstaigai šioje valstybėje."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 10 p.: įvykus užsienio valstybės vandenyse – Lietuvos Respublikos diplomatinei (konsulinei) įstaigai šioje valstybėje."
  },
  "t14_12": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Pirminį tyrimą atlieka laivo kapitonas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 15 p.: „Pirminį laivo avarijos ar avarinio atvejo tyrimą atlieka laivo kapitonas.“"
  },
  "t14_13": {
   "answer": 0,
@@ -317,23 +317,23 @@
  },
  "t14_14": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Sekluma ilgiau kaip 48 valandas – avarija; greičiau nuvilktas laivas – incidentas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 7.3 p.: laivo avarija – užplaukęs ant seklumos laivas būna ten ilgiau kaip 48 valandas."
  },
  "t14_15": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Kranto statinys, atkuriamas ne daugiau kaip per 48 val. – avarinis incidentas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 8.2 p.: avarinis atvejis – laivas sugadina kranto statinį ar įrenginį, kuriems atstatyti reikia ne daugiau kaip 48 valandų."
  },
  "t14_16": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Nuvilkimas greičiau nei per 48 val. – avarinis incidentas; kiti du variantai yra avarijos."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 8.3 p.: avarinis atvejis – užplaukęs ant seklumos laivas ištraukiamas greičiau nei per 48 valandas."
  },
  "t14_17": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Navigacinių ženklų sugadinimas be 72 val. kriterijaus – avarinis incidentas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 8.4 p.: avarinis atvejis – sugadinami navigaciniai ženklai (įrenginiai), povandeniniai laidai (kabeliai), vamzdynai."
  },
  "t14_18": {
   "answer": 2,
@@ -347,8 +347,8 @@
  },
  "t14_20": {
   "answer": 0,
-  "confidence": "high",
-  "note": "Eksploataciniai atsitikimai – gedimai, kai laivas nepraranda savybių ir kurie neatitinka avarijos ar incidento požymių."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 9 p.: sugadinimai, dėl kurių laivas nepraranda savybių ir kurie neatitinka klasifikacijos, vertinami kaip eksploataciniai atsitikimai."
  },
  "t14_21": {
   "answer": 2,
@@ -367,18 +367,18 @@
  },
  "t14_24": {
   "answer": 2,
-  "confidence": "high",
-  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 24 p.: „Visas laivo avarijos tyrimo išlaidas dengia avariją patyrusio laivo valdytojas (savininkas).“"
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 24 ir 28 p.: tyrimo ir nagrinėjimo išlaidas apmoka laivo savininkas (valdytojas)."
  },
  "t14_25": {
   "answer": 1,
-  "confidence": "medium",
-  "note": "Avarijos tyrimo aktas pateikiamas per 24 valandas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 18.1 p.: atplaukęs į uostą kapitonas per 24 valandas nuo avarijos laiko pateikia išsamų pranešimą ir avarijos tyrimo aktą."
  },
  "t14_26": {
   "answer": 1,
-  "confidence": "high",
-  "note": "Jūrų laivų avarijų tyrimo tvarka (SM 2002-07-01 Nr. 3-332; vidaus vandenų taisyklės sudarytos analogiškai), 5.10 p.: sunkus sužalojimas – kai per septynias paras nuo avarijos žmogus nedarbingas 72 valandas."
+  "confidence": "verified",
+  "note": "Vidaus vandenų laivų avarijų tyrimo taisyklės (SM 2002-07-01 Nr. 3-335, pradinė redakcija), 4 p.: sunkus sužalojimas – kai per septynias paras nuo avarijos žmogus nedarbingas 72 valandas."
  },
  "t14_27": {
   "answer": 2,
