@@ -9,6 +9,7 @@ import lt.laivavedys.testai.data.QuestionBank
 import lt.laivavedys.testai.data.Status
 import lt.laivavedys.testai.data.StatusCounts
 import lt.laivavedys.testai.data.nowMillis
+import lt.laivavedys.testai.focus.FocusGate
 
 enum class Screen { HOME, QUIZ, RESULT, PROGRESS }
 
@@ -64,6 +65,10 @@ class AppState(val store: ProgressStore = ProgressStore()) {
     var answers by mutableStateOf<List<AnsweredQuestion>>(emptyList())
         private set
 
+    /** Social-media minutes unlocked during the current quiz (Android only). */
+    var minutesUnlocked by mutableStateOf(0)
+        private set
+
     val current: Question? get() = quiz.getOrNull(index)
 
     // ---------------------------------------------------------------- actions
@@ -111,6 +116,7 @@ class AppState(val store: ProgressStore = ProgressStore()) {
         chosen = null
         revealed = false
         answers = emptyList()
+        minutesUnlocked = 0
         screen = Screen.QUIZ
     }
 
@@ -126,6 +132,7 @@ class AppState(val store: ProgressStore = ProgressStore()) {
         if (revealed) return
         val ok = pick == q.answer
         store.record(q.id, ok)
+        minutesUnlocked += FocusGate.onQuestionAnswered()
         answers = answers + AnsweredQuestion(q, pick, ok)
         revealed = true
         progressRevision++

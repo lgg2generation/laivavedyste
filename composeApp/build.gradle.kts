@@ -61,8 +61,20 @@ android {
         applicationId = "lt.laivavedys.testai"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1"
+    }
+
+    signingConfigs {
+        getByName("debug") {
+            // A fixed key, so every CI build installs over the previous one;
+            // with the runner's throwaway key each update meant reinstalling
+            // and losing the saved progress. Debug keys are not secret.
+            storeFile = file("debug.keystore")
+            storePassword = "android"
+            keyAlias = "androiddebugkey"
+            keyPassword = "android"
+        }
     }
 
     buildTypes {

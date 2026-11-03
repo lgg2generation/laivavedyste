@@ -5,7 +5,7 @@ klausimynams spręsti. Vienas bendras kodas (Kotlin Multiplatform + Compose
 Multiplatform): visi ekranai, logika ir duomenys yra `commonMain`, o kiekvienai
 platformai lieka tik paleidimo taškas ir failų saugojimas.
 
-Klausimai paimti iš 15 kursų dokumentų (611 klausimų su paveikslėliais).
+Klausimai paimti iš 15 kursų dokumentų (634 klausimai su paveikslėliais).
 
 ## Ką moka
 
@@ -21,12 +21,20 @@ Klausimai paimti iš 15 kursų dokumentų (611 klausimų su paveikslėliais).
   ar raudoną pusę, plius sesijų istorija ir kiekvienos temos padengimas.
 * **Kartojimo režimas** – pirmiausia pateikia raudonus ir geltonus klausimus.
 * Progresas saugomas įrenginyje (`progress.json`), interneto nereikia.
+* **Socialinių tinklų užraktas (tik Android)** – Instagram, Facebook, LinkedIn ir
+  YouTube (taip pat šios svetainės Chrome ir Samsung Internet naršyklėse) užrakinti,
+  kol neatsakai klausimų: kas 30 atsakytų klausimų atrakina 5 min. Laikas kaupiasi
+  ir skaičiuojamas tik kol tomis programomis naudojiesi (ne kai ekranas užgesęs).
+  Veikia per Android pritaikymo neįgaliesiems paslaugą; įjungimo instrukcija – pradinio
+  ekrano kortelėje. iPhone tokio blokavimo trečiųjų šalių programoms neleidžia
+  (reikia Apple „Screen Time“ teisių).
 
 ## Android
 
 Kiekvienas `push` paleidžia GitHub Actions darbą **Build**. Atsisiųsk
 `laivavedys-debug-apk` artefaktą ir įsidiek telefone (reikės leisti diegti iš
-nežinomų šaltinių).
+nežinomų šaltinių). APK pasirašomas repozitorijoje esančiu `composeApp/debug.keystore`,
+todėl kiekviena nauja versija diegiama ant senos ir progresas išlieka.
 
 Vietoje:
 

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Laivavedys</string>
+    <string name="focus_service_label">Laivavedys: socialinių tinklų užraktas</string>
+    <string name="focus_service_description">Užrakina Instagram, Facebook, LinkedIn ir YouTube (taip pat šias svetaines Chrome ir Samsung Internet naršyklėse), kol neišsprendi testo klausimų: kas 30 atsakytų klausimų atrakina 5 min. Paslauga mato tik tai, kuri programa atidaryta, ir naršyklės adreso juostą; jokie duomenys niekur nesiunčiami.</string>
 </resources>

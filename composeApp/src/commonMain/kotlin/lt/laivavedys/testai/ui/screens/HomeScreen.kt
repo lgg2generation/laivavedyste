@@ -23,6 +23,7 @@ import lt.laivavedys.testai.AppState
 import lt.laivavedys.testai.QuizMode
 import lt.laivavedys.testai.data.QuestionBank
 import lt.laivavedys.testai.data.formatTimestamp
+import lt.laivavedys.testai.focus.FocusGate
 import lt.laivavedys.testai.ui.StatusBar
 import lt.laivavedys.testai.ui.StatusLegend
 import lt.laivavedys.testai.ui.theme.StatusGreen
@@ -85,6 +86,10 @@ fun HomeScreen(state: AppState) {
                         if (parts.isEmpty()) null else "Nuo paskutinės sesijos: " + parts.joinToString(", ")
                     },
                 )
+            }
+
+            if (FocusGate.supported) {
+                item { FocusCard() }
             }
 
             item { SectionTitle("Sesijos nustatymai") }

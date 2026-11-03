@@ -78,6 +78,13 @@ fun ResultScreen(state: AppState) {
                     ) {
                         Text("$correct / $total", style = MaterialTheme.typography.headlineSmall)
                         Text("$percent % teisingų atsakymų", style = MaterialTheme.typography.bodyLarge)
+                        if (state.minutesUnlocked > 0) {
+                            Text(
+                                "+${state.minutesUnlocked} min. socialiniams tinklams",
+                                style = MaterialTheme.typography.titleMedium,
+                                color = StatusGreen,
+                            )
+                        }
                         if (delta != null) {
                             val parts = buildList {
                                 if (delta.green != 0) add("${signedText(delta.green)} žalių")
