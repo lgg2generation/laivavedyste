@@ -66,10 +66,11 @@ fun FocusCard() {
                 )
                 Text(
                     "Įjungimas (vieną kartą):\n" +
-                        "1. „Programos informacija“ → ⋮ viršuje dešinėje → „Leisti apribotus " +
-                        "nustatymus“. To reikia, nes programa įdiegta ne iš Play parduotuvės.\n" +
-                        "2. „Įjungti užraktą“ → „Įdiegtos programos“ → „Laivavedys: socialinių " +
-                        "tinklų užraktas“ → įjungti.",
+                        "1. „Įjungti užraktą“ → „Įdiegtos programos“ → „Laivavedys: socialinių " +
+                        "tinklų užraktas“ → įjungti.\n" +
+                        "2. Jei rodo „Apribotas nustatymas“: „Programos informacija“ → ⋮ viršuje " +
+                        "dešinėje → „Leisti apribotus nustatymus“ ir pakartok 1 žingsnį. To reikia, " +
+                        "nes programa įdiegta ne iš Play parduotuvės.",
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
