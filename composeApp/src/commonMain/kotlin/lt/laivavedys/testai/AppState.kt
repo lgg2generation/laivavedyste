@@ -19,6 +19,12 @@ enum class QuizMode {
     REVIEW,   // weakest first: red, then yellow, then unseen, then green
 }
 
+/** Which questions go into a session, by their traffic light. Can be combined. */
+enum class StatusFilter {
+    UNSEEN,   // never answered
+    REPEAT,   // red or yellow
+}
+
 class AnsweredQuestion(
     val question: Question,
     val chosen: Int,
@@ -42,6 +48,10 @@ class AppState(val store: ProgressStore = ProgressStore()) {
         private set
 
     var sessionSize by mutableStateOf(30)
+        private set
+
+    /** Empty means "all questions", whatever their status. */
+    var statusFilter by mutableStateOf<Set<StatusFilter>>(emptySet())
         private set
 
     /** Bumped whenever progress changes so the summaries recompose. */
@@ -89,14 +99,31 @@ class AppState(val store: ProgressStore = ProgressStore()) {
         sessionSize = n
     }
 
+    fun toggleStatusFilter(f: StatusFilter) {
+        statusFilter = if (f in statusFilter) statusFilter - f else statusFilter + f
+    }
+
     fun questionsInScope(): List<Question> =
         if (selectedTopics.isEmpty()) QuestionBank.questions
         else QuestionBank.questions.filter { it.topic in selectedTopics }
 
     fun countsInScope(): StatusCounts = store.counts(questionsInScope())
 
+    /** The selected topics narrowed down by [statusFilter]: what a new session draws from. */
+    fun quizPool(): List<Question> {
+        val scope = questionsInScope()
+        if (statusFilter.isEmpty()) return scope
+        return scope.filter {
+            when (store.statusFor(it.id)) {
+                Status.NEW -> StatusFilter.UNSEEN in statusFilter
+                Status.RED, Status.YELLOW -> StatusFilter.REPEAT in statusFilter
+                Status.GREEN -> false
+            }
+        }
+    }
+
     fun startQuiz() {
-        val pool = questionsInScope()
+        val pool = quizPool()
         if (pool.isEmpty()) return
 
         val picked = when (mode) {

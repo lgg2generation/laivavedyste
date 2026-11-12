@@ -21,6 +21,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import lt.laivavedys.testai.AppState
 import lt.laivavedys.testai.QuizMode
+import lt.laivavedys.testai.StatusFilter
 import lt.laivavedys.testai.data.QuestionBank
 import lt.laivavedys.testai.data.formatTimestamp
 import lt.laivavedys.testai.focus.FocusGate
@@ -37,6 +38,7 @@ fun HomeScreen(state: AppState) {
     val revision = state.progressRevision
     val scope = remember(revision, state.selectedTopics) { state.questionsInScope() }
     val counts = remember(revision, state.selectedTopics) { state.countsInScope() }
+    val pool = remember(revision, state.selectedTopics, state.statusFilter) { state.quizPool() }
     val overall = remember(revision) { state.store.counts() }
     val lastSession = remember(revision) { state.store.lastSession() }
     val delta = remember(revision) { state.store.changeInLastSession() }
@@ -60,7 +62,12 @@ fun HomeScreen(state: AppState) {
             ExtendedFloatingActionButton(
                 onClick = { state.startQuiz() },
                 icon = { Icon(Icons.Filled.PlayArrow, contentDescription = null) },
-                text = { Text("Pradėti (${minOf(state.sessionSize, scope.size)} kl.)") },
+                text = {
+                    Text(
+                        if (pool.isEmpty()) "Nėra klausimų"
+                        else "Pradėti (${minOf(state.sessionSize, pool.size)} kl.)"
+                    )
+                },
             )
         },
     ) { padding ->
@@ -126,6 +133,31 @@ fun HomeScreen(state: AppState) {
                                 "Klausimai išmėtomi atsitiktine tvarka."
                             else
                                 "Pirmiausia pateikiami raudoni ir geltoni klausimai.",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+
+                        Text("Kurie klausimai", style = MaterialTheme.typography.labelLarge)
+                        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                            FilterChip(
+                                selected = StatusFilter.UNSEEN in state.statusFilter,
+                                onClick = { state.toggleStatusFilter(StatusFilter.UNSEEN) },
+                                label = { Text("Nespręsti · ${counts.new}") },
+                            )
+                            FilterChip(
+                                selected = StatusFilter.REPEAT in state.statusFilter,
+                                onClick = { state.toggleStatusFilter(StatusFilter.REPEAT) },
+                                label = { Text("Kartoti · ${counts.red + counts.yellow}") },
+                            )
+                        }
+                        Text(
+                            if (state.statusFilter.isEmpty())
+                                "Nieko nepažymėjus – visi klausimai, taip pat ir mokami. " +
+                                    "Galima pažymėti vieną arba abu."
+                            else if (pool.isEmpty())
+                                "Pasirinktose temose tokių klausimų nėra."
+                            else
+                                "Sesijai bus renkama iš ${pool.size} klausimų.",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )

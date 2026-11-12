@@ -20,6 +20,8 @@ Klausimai paimti iš 15 kursų dokumentų (634 klausimai su paveikslėliais).
 * **Progresas nuo paskutinės sesijos** – kiek klausimų pajudėjo į žalią, geltoną
   ar raudoną pusę, plius sesijų istorija ir kiekvienos temos padengimas.
 * **Kartojimo režimas** – pirmiausia pateikia raudonus ir geltonus klausimus.
+* **Klausimų filtras** – į sesiją galima imti tik nespręstus, tik kartotinus
+  (raudonus ir geltonus) arba abu kartu; nieko nepažymėjus imami visi.
 * Progresas saugomas įrenginyje (`progress.json`), interneto nereikia.
 * **Socialinių tinklų užraktas (tik Android)** – Instagram, Facebook, LinkedIn ir
   YouTube (taip pat šios svetainės Chrome ir Samsung Internet naršyklėse) užrakinti,
