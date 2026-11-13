@@ -21,8 +21,9 @@ enum class QuizMode {
 
 /** Which questions go into a session, by their traffic light. Can be combined. */
 enum class StatusFilter {
-    UNSEEN,   // never answered
-    REPEAT,   // red or yellow
+    UNSEEN,   // never answered (grey)
+    REPEAT,   // one of the last two answers wrong (yellow)
+    WEAK,     // both of the last two answers wrong (red)
 }
 
 class AnsweredQuestion(
@@ -116,7 +117,8 @@ class AppState(val store: ProgressStore = ProgressStore()) {
         return scope.filter {
             when (store.statusFor(it.id)) {
                 Status.NEW -> StatusFilter.UNSEEN in statusFilter
-                Status.RED, Status.YELLOW -> StatusFilter.REPEAT in statusFilter
+                Status.YELLOW -> StatusFilter.REPEAT in statusFilter
+                Status.RED -> StatusFilter.WEAK in statusFilter
                 Status.GREEN -> false
             }
         }

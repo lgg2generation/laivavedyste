@@ -138,22 +138,15 @@ fun HomeScreen(state: AppState) {
                         )
 
                         Text("Kurie klausimai", style = MaterialTheme.typography.labelLarge)
-                        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                            FilterChip(
-                                selected = StatusFilter.UNSEEN in state.statusFilter,
-                                onClick = { state.toggleStatusFilter(StatusFilter.UNSEEN) },
-                                label = { Text("Nespręsti · ${counts.new}") },
-                            )
-                            FilterChip(
-                                selected = StatusFilter.REPEAT in state.statusFilter,
-                                onClick = { state.toggleStatusFilter(StatusFilter.REPEAT) },
-                                label = { Text("Kartoti · ${counts.red + counts.yellow}") },
-                            )
+                        FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                            StatusChip(state, StatusFilter.UNSEEN, "Nespręsti", counts.new)
+                            StatusChip(state, StatusFilter.REPEAT, "Kartoti", counts.yellow)
+                            StatusChip(state, StatusFilter.WEAK, "Silpna", counts.red)
                         }
                         Text(
                             if (state.statusFilter.isEmpty())
                                 "Nieko nepažymėjus – visi klausimai, taip pat ir mokami. " +
-                                    "Galima pažymėti vieną arba abu."
+                                    "Galima pažymėti vieną arba kelis."
                             else if (pool.isEmpty())
                                 "Pasirinktose temose tokių klausimų nėra."
                             else
@@ -223,6 +216,16 @@ fun HomeScreen(state: AppState) {
 }
 
 private fun signed(v: Int) = if (v > 0) "+$v" else "$v"
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+private fun StatusChip(state: AppState, filter: StatusFilter, label: String, count: Int) {
+    FilterChip(
+        selected = filter in state.statusFilter,
+        onClick = { state.toggleStatusFilter(filter) },
+        label = { Text("$label · $count") },
+    )
+}
 
 @Composable
 private fun SectionTitle(text: String) {
